@@ -13,6 +13,7 @@ While our manuscript is under review, please cite this repository:
   year = {2025},
   note = {Article citation will be added upon publication}
 }
+```
 
 ## Notification:
 We appreciate being informed of how this code is being used. For questions,
