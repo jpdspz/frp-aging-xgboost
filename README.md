@@ -17,4 +17,4 @@ While our manuscript is under review, please cite this repository:
 
 ## Questions or Feedback
 We appreciate being informed of how this code is being used. For questions,
-feedback, or to share your case, feel free to reach out at jp_dias@id.uff.br
+feedback, or to share your case, feel free to reach out at jp_dias@id.uff.br.
