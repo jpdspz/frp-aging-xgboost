@@ -3,7 +3,7 @@
 ## License and Attribution
 This work is licensed under GPL-3.0 with additional attribution requirements.  
 
-## Citation (Pending Publication)
+## Citation
 While our manuscript is under review, please cite this repository:
 ```bibtex
 @software{frp-aging-xgboost,
@@ -15,6 +15,6 @@ While our manuscript is under review, please cite this repository:
 }
 ```
 
-## Notification:
+## Questions or Feedback
 We appreciate being informed of how this code is being used. For questions,
 feedback, or to share your case, feel free to reach out at jp_dias@id.uff.br
