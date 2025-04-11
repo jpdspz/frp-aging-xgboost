@@ -17,11 +17,9 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 1. Attribution Requirement:
    - Any use of this code in academic works or derivatives must include 
-     a citation to the original article (T.B.D.)
+     a citation to the original article (once published), and/or to this
+     repository
 
 2. Open Source Preservation:
    - Derivative works must be licensed under GPL-3.0 or later
    - Source code must remain publicly available
-
-3. Notification:
-   - We appreciate notification of how this code is being used via email to: jp_dias@id.uff.br
