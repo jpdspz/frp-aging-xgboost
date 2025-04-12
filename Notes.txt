@@ -1,0 +1,8 @@
+- Increase model complexity (increase max_depth and n_estimators,
+    reduce regularization) to improve both training and validation learning curves (OK)
+
+Next steps
+- Test model with residual modulus as target property instead of modulus retention
+- Test inclusion of secondary features (currently removed)
+- Implement early_stopping_rounds
+- Research model ensembling and polynomial features
