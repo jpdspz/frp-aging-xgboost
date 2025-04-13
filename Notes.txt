@@ -1,8 +1,15 @@
-- Increase model complexity (increase max_depth and n_estimators,
-    reduce regularization) to improve both training and validation learning curves (OK)
+test: add secondary features back to dataset
+
+- Added categorical (type of resin, type of fiber, manuf. process) and continuous (pH, RH, temp. range) features back to the dataset
+- Add residual analysis features to Predictor class
 
 Next steps
-- Test model with residual modulus as target property instead of modulus retention
-- Test inclusion of secondary features (currently removed)
+- Merge fix-underfitting-1 with main
+- Test model without log-transforming exposure time
+- Assess sensitivity of residual modulus to changing profile thicknes (no.linspace(2, 20, 50)))
+    - If curve plateaus, thickness becomes negligible (use 10 mm)
+    - If linear trend, continue with caution (apply physic-based scaling)
+    - If erratic, avoid extrapolation and use worst-case 10 mm properties
+- Test polynominal features (e.g., exposure time x average temperature)
+- Research model ensembling
 - Implement early_stopping_rounds
-- Research model ensembling and polynomial features
