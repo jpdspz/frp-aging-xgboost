@@ -1,15 +1,12 @@
-test: add secondary features back to dataset
-
-- Added categorical (type of resin, type of fiber, manuf. process) and continuous (pH, RH, temp. range) features back to the dataset
-- Add residual analysis features to Predictor class
-
-Next steps
-- Merge fix-underfitting-1 with main
-- Test model without log-transforming exposure time
-- Assess sensitivity of residual modulus to changing profile thicknes (no.linspace(2, 20, 50)))
+- Remove transverse, shear, and mass uptake tabs from dataset spreadsheet
+- Create new tab for holdout data
+- Use Rosa et al. (2024) as holdout data to assess long-term extrapolation
+- Assess sensitivity of residual modulus to changing profile thicknes (no.linspace(2, 20, 50))
     - If curve plateaus, thickness becomes negligible (use 10 mm)
     - If linear trend, continue with caution (apply physic-based scaling)
     - If erratic, avoid extrapolation and use worst-case 10 mm properties
+
+No longer necessary (model not overfitting):
 - Test polynominal features (e.g., exposure time x average temperature)
 - Research model ensembling
 - Implement early_stopping_rounds
