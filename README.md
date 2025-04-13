@@ -1,4 +1,4 @@
-# Prediction of property retention in aged FRP composites using XGBoost
+# XGBoost-based prediction of residual properties of aged FRP composites
 
 ## License and Attribution
 This work is licensed under GPL-3.0 with additional attribution requirements.  
@@ -8,7 +8,7 @@ While our manuscript is under review, please cite this repository:
 ```bibtex
 @software{frp-aging-xgboost,
   author = {Pereira, João Paulo D. de S.},
-  title = {{Prediction of property retention in aged FRP composites using XGBoost}},
+  title = {{XGBoost-based prediction of residual properties of aged FRP composites}},
   url = {https://github.com/pereira-joao-paulo/frp-aging-xgboost},
   year = {2025},
   note = {Article citation will be added upon publication}
