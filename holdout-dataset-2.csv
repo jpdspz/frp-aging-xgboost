@@ -1,6 +1,0 @@
-﻿Author;Type of resin;Isophtalic polyester resin;Orthophtalic polyester resin;Vinylester resin;Phenolic resin;Epoxy resin;Type of fiber;Glass fiber;Carbon fiber;Manufacturing process;Pultrusion;Hand lay-up;Filament winding;VARTM;V_f;Coupon thick. (mm);Coupon descr.;Aging effect;Steady condition;Cyclic condition;Immersion;Moisture;Presence of salts;Salt conc. (g/L);pH;Relative humidity;Sustained loading;Exposure time (hours);Exposure time (days);Min. exposure temperature (ºC);Max. exposure temperature (ºC);Avg. exposure temperature (ºC);Temperature range (ºC);Unaged tensile modulus (GPa);Residual tensile modulus (GPa);Tensile modulus retention
-Keller et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;8;I-beam flange;in situ;0;1;0;1;0;0;7.5;0.73;0.2;70080;2920;2;2;2;0;34.2;35.3;1.032
-Keller et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;8;I-beam flange;in situ;0;1;0;1;0;0;7.5;0.73;0.2;148920;6205;2;2;2;0;34.2;33.6;0.982
-Keller et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;8;I-beam web;in situ;0;1;0;1;0;0;7.5;0.73;0.2;70080;2920;2;2;2;0;22.8;22.7;0.996
-Keller et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;8;I-beam web;in situ;0;1;0;1;0;0;7.5;0.73;0.2;148920;6205;2;2;2;0;22.8;21.7;0.952
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
