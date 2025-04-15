@@ -406,16 +406,10 @@ Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;t
 Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;acid solution;1;0;1;0;0;0;2;1;0;0;0;20;20;20;0;20.7;20.7;1
 Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;acid solution;1;0;1;0;0;0;1;1;0;0;0;20;20;20;0;20.7;20.7;1
 Rosa et al 2024;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.33;3.2;square tube;in situ;1;0;0;1;1;7;7.5;0.5;0;0;0;21;21;21;0;37.9;37.9;1
-Rosa et al 2024;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.33;3.2;square tube;in situ;1;0;0;1;1;7;7.5;0.5;0;183960;7665;21;21;21;0;37.9;37.3;0.984
 Rosa et al 2024;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.43;8;I-beam web;in situ;0;1;0;1;1;7;7.5;0.5;0;0;0;21;21;21;0;34.2;34.2;1
-Rosa et al 2024;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.43;8;I-beam web;in situ;0;1;0;1;1;7;7.5;0.5;0;96360;4015;21;21;21;0;34.2;34.2;1
 Keller et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;8;I-beam flange;in situ;0;1;0;1;0;0;7.5;0.73;0.2;0;0;2;2;2;0;34.2;34.2;1
-Keller et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;8;I-beam flange;in situ;0;1;0;1;0;0;7.5;0.73;0.2;148920;6205;2;2;2;0;34.2;33.6;0.982
 Keller et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;8;I-beam web;in situ;0;1;0;1;0;0;7.5;0.73;0.2;0;0;2;2;2;0;22.8;22.8;1
-Keller et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;8;I-beam web;in situ;0;1;0;1;0;0;7.5;0.73;0.2;70080;2920;2;2;2;0;22.8;22.7;0.996
-Keller et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;8;I-beam web;in situ;0;1;0;1;0;0;7.5;0.73;0.2;148920;6205;2;2;2;0;22.8;21.7;0.952
 Sousa et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;in situ;0;1;0;1;0;0;7.5;0.74;0;17280;720;11.3;23.1;17.2;11.8;37.6;31;0.824
-Sousa et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;in situ;0;1;0;1;0;0;7.5;0.74;0;30240;1260;11.3;23.1;17.2;11.8;37.6;32.5;0.864
 Sousa et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;QUV chamber;0;1;0;1;0;0;7.5;0.75;0;0;0;50;60;55;10;37.6;37.6;1
 Sousa et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;QUV chamber;0;1;0;1;0;0;7.5;0.75;0;1000;42;50;60;55;10;37.6;33.3;0.886
 Sousa et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;QUV chamber;0;1;0;1;0;0;7.5;0.75;0;2000;83;50;60;55;10;37.6;37;0.983
@@ -453,13 +447,4 @@ Bazli et al 2020;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2;dogbone
 Bazli et al 2020;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;5;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;1000;0;50;60;55;10;45;45;1
 Bazli et al 2020;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;5;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;2000;83;50;60;55;10;45;41;0.911
 Bazli et al 2020;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;5;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;3000;125;50;60;55;10;45;40;0.889
-Borges 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.47;5;plate;;;;;;;;;;;;;;;;;37.4;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Borges 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;plate;;;;;;;;;;;;;;;;;35;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Angrizani et al 2022;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;37.4;;
