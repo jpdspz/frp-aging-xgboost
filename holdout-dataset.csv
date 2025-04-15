@@ -1,8 +1,8 @@
 ﻿Author;Type of resin;Isophtalic polyester resin;Orthophtalic polyester resin;Vinylester resin;Phenolic resin;Epoxy resin;Type of fiber;Glass fiber;Carbon fiber;Manufacturing process;Pultrusion;Hand lay-up;Filament winding;VARTM;V_f;Coupon thick. (mm);Coupon descr.;Aging effect;Steady condition;Cyclic condition;Immersion;Moisture;Presence of salts;Salt conc. (g/L);pH;Relative humidity;Sustained loading;Exposure time (hours);Exposure time (days);Min. exposure temperature (ºC);Max. exposure temperature (ºC);Avg. exposure temperature (ºC);Temperature range (ºC);Unaged tensile modulus (GPa);Residual tensile modulus (GPa);Tensile modulus retention
-Lu et al;-;-;-;-;-;-;-;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;13;-;-;2160;0;-;-;23;-;59.4;59.4;1.000
-Lu et al;-;-;-;-;-;-;-;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;13;-;-;2160;90;-;-;20;-;59.4;51.97;0.875
-Lu et al;-;-;-;-;-;-;-;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;7.5;-;-;2160;90;-;-;20;-;59.4;53.14;0.895
-Lu et al;-;-;-;-;-;-;-;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;13;-;-;2160;90;-;-;40;-;59.4;51.16;0.861
-Lu et al;-;-;-;-;-;-;-;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;7.5;-;-;2160;90;-;-;40;-;59.4;52.48;0.884
-Lu et al;-;-;-;-;-;-;-;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;13;-;-;2160;90;-;-;60;-;59.4;52.18;0.878
-Lu et al;-;-;-;-;-;-;-;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;7.5;-;-;2160;90;-;-;60;-;59.4;54.95;0.925
+Lu et al;epoxy;-;-;-;-;-;basalt;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;13;-;-;2160;0;-;-;23;-;59.4;59.4;1.000
+Lu et al;epoxy;-;-;-;-;-;basalt;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;13;-;-;2160;90;-;-;20;-;59.4;51.97;0.875
+Lu et al;epoxy;-;-;-;-;-;basalt;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;7.5;-;-;2160;90;-;-;20;-;59.4;53.14;0.895
+Lu et al;epoxy;-;-;-;-;-;basalt;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;13;-;-;2160;90;-;-;40;-;59.4;51.16;0.861
+Lu et al;epoxy;-;-;-;-;-;basalt;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;7.5;-;-;2160;90;-;-;40;-;59.4;52.48;0.884
+Lu et al;epoxy;-;-;-;-;-;basalt;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;13;-;-;2160;90;-;-;60;-;59.4;52.18;0.878
+Lu et al;epoxy;-;-;-;-;-;basalt;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;7.5;-;-;2160;90;-;-;60;-;59.4;54.95;0.925
