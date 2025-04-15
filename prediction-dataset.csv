@@ -1,0 +1,5 @@
+﻿Author;Type of resin;Isophtalic polyester resin;Orthophtalic polyester resin;Vinylester resin;Phenolic resin;Epoxy resin;Type of fiber;Glass fiber;Carbon fiber;Manufacturing process;Pultrusion;Hand lay-up;Filament winding;VARTM;V_f;Coupon thick. (mm);Coupon descr.;Aging effect;Steady condition;Cyclic condition;Immersion;Moisture;Presence of salts;Salt conc. (g/L);pH;Relative humidity;Sustained loading;Exposure time (hours);Exposure time (days);Min. exposure temperature (ºC);Max. exposure temperature (ºC);Avg. exposure temperature (ºC);Temperature range (ºC);Unaged tensile modulus (GPa);Residual tensile modulus (GPa);Tensile modulus retention
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;8;-;cooling tower;1;0;0;1;0;0;8.5;1;-;0.5;0;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;8;-;cooling tower;1;0;0;1;0;0;8.5;1;-;1;365;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;8;-;cooling tower;1;0;0;1;0;0;8.5;1;-;2;730;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;8;-;cooling tower;1;0;0;1;0;0;8.5;1;-;4;1095;40;40;40;0;24;0;0
