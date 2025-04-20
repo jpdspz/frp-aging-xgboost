@@ -1,31 +1,22 @@
 ﻿Author;Type of resin;Isophtalic polyester resin;Orthophtalic polyester resin;Vinylester resin;Phenolic resin;Epoxy resin;Type of fiber;Glass fiber;Carbon fiber;Basalt fiber;Manufacturing process;Pultrusion;Hand lay-up;Filament winding;VARTM;Fiber volume fraction;Profile thickness (mm);Coupon description;Aging effect;Steady condition;Cyclic condition;Immersion;Moisture;Presence of salts;Salt concentration (g/L);pH;Relative humidity;Sustained loading;Exposure time (hours);Exposure time (days);log10(t);Min. exposure temperature (°C);Max. exposure temperature (°C);Avg. exposure temperature (°C);Temperature range (°C);Temperature x time;k(T);1/T (Kelvin);Unaged elastic modulus (GPa);Residual elastic modulus (GPa);Elastic modulus retention
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;1;0.301;40;40;30;0;227.3;4.32;3.411;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;20;1.322;40;40;30;0;287.2;4.32;3.411;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;50;1.708;40;40;30;0;305.6;4.32;3.411;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;100;2.004;40;40;30;0;319.4;4.32;3.411;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;150;2.179;40;40;30;0;327.5;4.32;3.411;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;250;2.4;40;40;30;0;337.8;4.32;3.411;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;365;2.563;40;40;30;0;345.3;4.32;3.411;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;500;2.7;40;40;30;0;351.6;4.32;3.411;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;730;2.864;40;40;30;0;359.2;4.32;3.411;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;900;2.955;40;40;30;0;363.4;4.32;3.411;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;1;0.301;40;40;45;0;454.7;30.85;3.193;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;20;1.322;40;40;45;0;574.5;30.85;3.193;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;50;1.708;40;40;45;0;611.2;30.85;3.193;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;100;2.004;40;40;45;0;638.9;30.85;3.193;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;150;2.179;40;40;45;0;655.1;30.85;3.193;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;250;2.4;40;40;45;0;675.5;30.85;3.193;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;365;2.563;40;40;45;0;690.7;30.85;3.193;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;500;2.7;40;40;45;0;703.3;30.85;3.193;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;730;2.864;40;40;45;0;718.4;30.85;3.193;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;900;2.955;40;40;45;0;726.8;30.85;3.193;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;1;0.301;40;40;60;0;682;173.91;3.002;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;20;1.322;40;40;60;0;861.7;173.91;3.002;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;50;1.708;40;40;60;0;916.7;173.91;3.002;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;100;2.004;40;40;60;0;958.3;173.91;3.002;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;150;2.179;40;40;60;0;982.6;173.91;3.002;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;250;2.4;40;40;60;0;1013.3;173.91;3.002;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;365;2.563;40;40;60;0;1036;173.91;3.002;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;500;2.7;40;40;60;0;1054.9;173.91;3.002;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;730;2.864;40;40;60;0;1077.6;173.91;3.002;24;0;0
--;Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.4;10;-;cooling tower;1;0;0;1;0;0;8.5;1;-;-;900;2.955;40;40;60;0;1090.1;173.91;3.002;24;0;0
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;0;0;0.000;20.0;20.0;20.0;0.0;0.0;4.3;0.0;37.4;37.4;1.000
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;2160;90;1.959;20.0;20.0;20.0;0.0;317.3;4.3;0.0;37.4;38.6;1.032
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;4320;180;2.258;20.0;20.0;20.0;0.0;331.2;4.3;0.0;37.4;36.5;0.976
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;6480;270;2.433;20.0;20.0;20.0;0.0;339.3;4.3;0.0;37.4;34.2;0.914
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;8640;360;2.558;20.0;20.0;20.0;0.0;345.1;4.3;0.0;37.4;33.9;0.906
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;12960;540;2.733;20.0;20.0;20.0;0.0;353.2;4.3;0.0;37.4;33.3;0.890
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;17280;720;2.858;20.0;20.0;20.0;0.0;358.9;4.3;0.0;37.4;33.6;0.898
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;0;0;0.000;40.0;40.0;40.0;0.0;0.0;30.9;0.0;37.4;37.4;1.000
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;2160;90;1.959;40.0;40.0;40.0;0.0;634.7;30.9;0.0;37.4;36.9;0.987
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;4320;180;2.258;40.0;40.0;40.0;0.0;662.4;30.9;0.0;37.4;35.3;0.944
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;6480;270;2.433;40.0;40.0;40.0;0.0;678.6;30.9;0.0;37.4;33.7;0.902
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;8640;360;2.558;40.0;40.0;40.0;0.0;690.1;30.9;0.0;37.4;33.2;0.887
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;12960;540;2.733;40.0;40.0;40.0;0.0;706.3;30.9;0.0;37.4;31.9;0.853
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;17280;720;2.858;40.0;40.0;40.0;0.0;717.8;30.9;0.0;37.4;31.2;0.834
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;0;0;0.000;60.0;60.0;60.0;0.0;0.0;173.9;0.0;37.4;37.4;1.000
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;2160;90;1.959;60.0;60.0;60.0;0.0;952.0;173.9;0.0;37.4;35.5;0.949
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;4320;180;2.258;60.0;60.0;60.0;0.0;993.6;173.9;0.0;37.4;34.6;0.925
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;6480;270;2.433;60.0;60.0;60.0;0.0;1017.9;173.9;0.0;37.4;33.8;0.905
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;8640;360;2.558;60.0;60.0;60.0;0.0;1035.2;173.9;0.0;37.4;31.1;0.830
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;12960;540;2.733;60.0;60.0;60.0;0.0;1059.5;173.9;0.0;37.4;31.2;0.833
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5.0;plate;demineralised water;1;0;1;0;0;0;7.0;1.00;0.0;17280;720;2.858;60.0;60.0;60.0;0.0;1076.8;173.9;0.0;37.4;30.5;0.816
