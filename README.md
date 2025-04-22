@@ -1,9 +1,18 @@
 # XGBoost-based prediction of residual properties of aged FRP composites
 
-## License and Attribution
-This work is licensed under GPL-3.0 with additional attribution requirements.  
+This repository contains preliminary code, datasets, and additional resources for an ongoing study on the long-term performance of a pultruded GFRP structure subjected to high humidity, moderate temperature, and mildly alkaline conditions. The work builds upon the framework proposed by [Liu et al. (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0263822322000022). Feedback and collaboration are welcome as results are being refined.
 
-## Citation
+## 📂 Repository Structure
+- **Active branch**: `fix-underfitting-2`  
+  Contains the latest code being tested and refined to improve the model's predictive performance.
+
+- **Default branch**: `main`  
+  Used for stable releases.
+
+## 📜 License and Attribution
+This work is licensed under **GPL-3.0** with additional attribution requirements.
+
+## 📚 Citation
 While our manuscript is under review, please cite this repository:
 ```bibtex
 @software{frp-aging-xgboost,
@@ -15,6 +24,6 @@ While our manuscript is under review, please cite this repository:
 }
 ```
 
-## Questions or Feedback
+## 💬 Questions or Feedback
 We appreciate being informed of how this code is being used. For questions,
 feedback, or to share your case, feel free to reach out at jp_dias@id.uff.br.
