@@ -1,12 +1,24 @@
-- Remove transverse, shear, and mass uptake tabs from dataset spreadsheet
-- Create new tab for holdout data
-- Use Rosa et al. (2024) as holdout data to assess long-term extrapolation
-- Assess sensitivity of residual modulus to changing profile thicknes (no.linspace(2, 20, 50))
+chore: refine learning curves
+
+- Increased the number of points in the learning curves
+- Reduced the number of models to 5
+
+Results:
+    - Very good looking prediction time series and learning curves
+
+
+
+- Update residuals vs. actuals method to plot with custom settings
+
+
+- Change article used as holdout and check prediction time series with experimental
+
+Next steps:
+    - Check sensitivity of prediction time series to changes in thickness (one of the most important features)
+    
+- Test data from Liu et al. (2022) as holdout data
+
+- Assess sensitivity of residual modulus to changing profile thicknes (np.linspace(2, 20, 50))
     - If curve plateaus, thickness becomes negligible (use 10 mm)
     - If linear trend, continue with caution (apply physic-based scaling)
     - If erratic, avoid extrapolation and use worst-case 10 mm properties
-
-No longer necessary (model not overfitting):
-- Test polynominal features (e.g., exposure time x average temperature)
-- Research model ensembling
-- Implement early_stopping_rounds

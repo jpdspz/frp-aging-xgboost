@@ -1,0 +1,20 @@
+﻿Author;Type of resin;Isophtalic polyester resin;Orthophtalic polyester resin;Vinylester resin;Phenolic resin;Epoxy resin;Type of fiber;Glass fiber;Carbon fiber;Manufacturing process;Pultrusion;Hand lay-up;Filament winding;VARTM;V_f;Coupon thick. (mm);Coupon descr.;Aging effect;Steady condition;Cyclic condition;Immersion;Moisture;Presence of salts;Salt conc. (g/L);pH;Relative humidity;Sustained loading;Exposure time (hours);Exposure time (days);Min. exposure temperature (ºC);Max. exposure temperature (ºC);Avg. exposure temperature (ºC);Temperature range (ºC);Unaged tensile modulus (GPa);Residual tensile modulus (GPa);Tensile modulus retention
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;0;1;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;1200;50;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;1800;75;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;2400;100;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;3600;150;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;4800;200;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;6000;250;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;7200;300;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;8760;365;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;10800;450;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;13200;550;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;15600;650;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;17520;730;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;5;1825;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;10;3650;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;15;5475;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;25;9125;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;40;14600;40;40;40;0;24;0;0
+-;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.4;18;-;cooling tower;1;0;0;1;0;0;8.5;1;-;50;18250;40;40;40;0;24;0;0

@@ -1,0 +1,8 @@
+﻿Author;Type of resin;Isophtalic polyester resin;Orthophtalic polyester resin;Vinylester resin;Phenolic resin;Epoxy resin;Type of fiber;Glass fiber;Carbon fiber;Manufacturing process;Pultrusion;Hand lay-up;Filament winding;VARTM;Fiber volume fraction;Profile thickness (mm);Coupon description;Aging effect;Steady condition;Cyclic condition;Immersion;Moisture;Presence of salts;Salt concentration (g/L);pH;Relative humidity;Sustained loading;Exposure time (hours);Exposure time (days);log10(t);Min. exposure temperature (°C);Max. exposure temperature (°C);Avg. exposure temperature (°C);Temperature range (°C);Temperature x time;k(T);1/T (Kelvin);Unaged elastic modulus (GPa);Residual elastic modulus (GPa);Elastic modulus retention
+Lu et al. (2015);epoxy;-;-;-;-;-;basalt;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;13;1;-;2160;0;0;-;-;23;-;0;5.9;3.377;59.4;59.4;1
+Lu et al. (2015);epoxy;-;-;-;-;-;basalt;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;13;1;-;2160;90;1.959;-;-;20;-;317.3;4.32;3.411;59.4;51.97;0.875
+Lu et al. (2015);epoxy;-;-;-;-;-;basalt;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;7.5;1;-;2160;90;1.959;-;-;20;-;317.3;4.32;3.411;59.4;53.14;0.895
+Lu et al. (2015);epoxy;-;-;-;-;-;basalt;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;13;1;-;2160;90;1.959;-;-;40;-;634.7;30.85;3.193;59.4;51.16;0.861
+Lu et al. (2015);epoxy;-;-;-;-;-;basalt;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;7.5;1;-;2160;90;1.959;-;-;40;-;634.7;30.85;3.193;59.4;52.48;0.884
+Lu et al. (2015);epoxy;-;-;-;-;-;basalt;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;13;1;-;2160;90;1.959;-;-;60;-;952;173.91;3.002;59.4;52.18;0.878
+Lu et al. (2015);epoxy;-;-;-;-;-;basalt;-;-;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;7.5;1;-;2160;90;1.959;-;-;60;-;952;173.91;3.002;59.4;54.95;0.925
