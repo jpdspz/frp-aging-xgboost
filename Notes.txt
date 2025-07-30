@@ -1,9 +1,10 @@
-chore: update benchmark model
+chore: refine learning curves
 
-- Removed Arrhenius-related features (it was confirmed previously that the degradation is not Arrhenius-like)
-- Removed feature weights, interaction constraints, and log_transform to check if they are important for prediction time series
-- Updated output functions based on latest versions of the model (Bayesian optmization convergence plots, MAPE metrics etc.)
-- Increased the number of trained models from 4 to 10 to evaluate the standard deviation of prediction time series
+- Increased the number of points in the learning curves
+- Reduced the number of models to 5
+
+Results:
+    - Very good looking prediction time series and learning curves
 
 
 
