@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 title: "XGBoost-based prediction of residual properties of aged FRP composites"
 version: 1.1.0
 authors:
-  - given-names: "João Paulo D. de S."
+  - given-names: "J. P. D. S."
     family-names: "Pereira"
     orcid: "https://orcid.org/0009-0004-0752-5480"
 repository-code: "https://github.com/pereira-joao-paulo/frp-aging-xgboost"
