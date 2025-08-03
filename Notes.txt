@@ -1,7 +1,6 @@
 chore: update training and holdout datasets
 
-- Updated...
-- Reduced the number of models to 5
+- Used data compiled by Liu et al. (2020) as holdout data
 
 Results:
     - Very good looking prediction time series and learning curves
@@ -16,7 +15,7 @@ Results:
 Next steps:
     - Check sensitivity of prediction time series to changes in thickness (one of the most important features)
     
-- Test data from Liu et al. (2022) as holdout data
+
 
 - Assess sensitivity of residual modulus to changing profile thicknes (np.linspace(2, 20, 50))
     - If curve plateaus, thickness becomes negligible (use 10 mm)
