@@ -1,6 +1,6 @@
-chore: refine learning curves
+chore: update training and holdout datasets
 
-- Increased the number of points in the learning curves
+- Updated...
 - Reduced the number of models to 5
 
 Results:

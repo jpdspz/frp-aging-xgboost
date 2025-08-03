@@ -1,449 +1,645 @@
-﻿Author;Type of resin;Isophtalic polyester resin;Orthophtalic polyester resin;Vinylester resin;Phenolic resin;Epoxy resin;Type of fiber;Glass fiber;Carbon fiber;Manufacturing process;Pultrusion;Hand lay-up;Filament winding;VARTM;Fiber volume fraction;Profile thickness (mm);Coupon description;Aging effect;Steady condition;Cyclic condition;Immersion;Moisture;Presence of salts;Salt concentration (g/L);pH;Relative humidity;Sustained loading;Exposure time (hours);Exposure time (days);log10(t);Min. exposure temperature (°C);Max. exposure temperature (°C);Avg. exposure temperature (°C);Temperature range (°C);Temperature x time;k(T);1/T (Kelvin);Unaged elastic modulus (GPa);Residual elastic modulus (GPa);Elastic modulus retention
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;23;23;23;0;0;5.903;3.377;29.9;29.9;1
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;672;28;1.462;23;23;23;0;338.0758012;5.903;3.377;29.9;28.3;0.946
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;70;70;70;0;0;382.835;2.914;29.9;29.9;1
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;672;28;1.462;70;70;70;0;1028.926351;382.835;2.914;29.9;28.3;0.946
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;23;23;23;0;0;5.903;3.377;29.9;29.9;1
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;2568;107;2.033;23;23;23;0;368.9101536;5.903;3.377;29.9;29.4;0.983
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;70;70;70;0;0;382.835;2.914;29.9;29.9;1
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;23;23;23;0;0;5.903;3.377;29.9;29.9;1
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;70;70;70;0;0;382.835;2.914;29.9;29.9;1
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;4608;192;2.286;70;70;70;0;1163.696687;382.835;2.914;29.9;28.5;0.953
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;23;23;23;0;0;5.903;3.377;29.9;29.9;1
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;70;70;70;0;0;382.835;2.914;29.9;29.9;1
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;100;100;100;0;0;3168.831;2.68;29.9;29.9;1
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;504;21;1.342;100;100;100;0;1441.126594;3168.831;2.68;29.9;27.2;0.91
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;23;23;23;0;0;5.903;3.377;11.7;11.7;1
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;70;70;70;0;0;382.835;2.914;11.7;11.7;1
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;672;28;1.462;70;70;70;0;1028.926351;382.835;2.914;11.7;10;0.855
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;23;23;23;0;0;5.903;3.377;11.7;11.7;1
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;70;70;70;0;0;382.835;2.914;11.7;11.7;1
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;23;23;23;0;0;5.903;3.377;11.7;11.7;1
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;70;70;70;0;0;382.835;2.914;11.7;11.7;1
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;4608;192;2.286;70;70;70;0;1163.696687;382.835;2.914;11.7;10.3;0.88
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;23;23;23;0;0;5.903;3.377;11.7;11.7;1
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;70;70;70;0;0;382.835;2.914;11.7;11.7;1
-Shao Kouadio 2002;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;100;100;100;0;0;3168.831;2.68;11.7;11.7;1
-Grammatikos et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;672;0;0;25;25;25;0;0;7.242;3.354;22;22;1
-Grammatikos et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;672;0;0;40;40;40;0;0;30.85;3.193;22;22;1
-Grammatikos et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;672;0;0;60;60;60;0;0;173.906;3.002;22;22;1
-Grammatikos et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;672;0;0;80;80;80;0;0;805.938;2.832;22;22;1
-Heshmati et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;10;plate;distilled water;1;0;1;0;0;0;7;1;0;5040;0;0;20;20;20;0;0;4.322;3.411;14;14;1
-Heshmati et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;10;plate;distilled water;1;0;1;0;0;0;7;1;0;5040;210;2.324;20;20;20;0;334.2770108;4.322;3.411;14;13;0.926
-Heshmati et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;10;plate;distilled water;1;0;1;0;0;0;7;1;0;20160;840;2.925;20;20;20;0;362.0028972;4.322;3.411;14;12.5;0.892
-Heshmati et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;10;plate;salt water;1;0;1;0;1;50;7;1;0;5040;0;0;20;20;20;0;0;4.322;3.411;14;14;1
-Heshmati et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;10;plate;salt water;1;0;1;0;1;50;7;1;0;5040;210;2.324;20;20;20;0;334.2770108;4.322;3.411;14;12.8;0.912
-Heshmati et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;10;plate;salt water;1;0;1;0;1;50;7;1;0;20160;840;2.925;20;20;20;0;362.0028972;4.322;3.411;14;13.3;0.948
-Heshmati et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;10;plate;hygrothermal chamber;1;0;1;0;0;0;7;0.95;0;5040;0;0;45;45;45;0;0;48.515;3.143;14;14;1
-Heshmati et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;10;plate;hygrothermal chamber;1;0;1;0;0;0;7;0.95;0;5040;210;2.324;45;45;45;0;752.1232743;48.515;3.143;14;12.3;0.876
-Heshmati et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;10;plate;hygrothermal chamber;1;0;1;0;0;0;7;0.95;0;20160;840;2.925;45;45;45;0;814.5065187;48.515;3.143;14;13.4;0.955
-Heshmati et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;10;plate;distilled water;1;0;1;0;0;0;7;1;0;5040;0;0;45;45;45;0;0;48.515;3.143;14;14;1
-Heshmati et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;10;plate;distilled water;1;0;1;0;0;0;7;1;0;5040;210;2.324;45;45;45;0;752.1232743;48.515;3.143;14;12.5;0.89
-Heshmati et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;10;plate;distilled water;1;0;1;0;0;0;7;1;0;20160;840;2.925;45;45;45;0;814.5065187;48.515;3.143;14;13.2;0.941
-Heshmati et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;10;plate;salt water;1;0;1;0;1;50;7;1;0;5040;0;0;45;45;45;0;0;48.515;3.143;14;14;1
-Heshmati et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;10;plate;salt water;1;0;1;0;1;50;7;1;0;5040;210;2.324;45;45;45;0;752.1232743;48.515;3.143;14;12.6;0.9
-Heshmati et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.58;10;plate;salt water;1;0;1;0;1;50;7;1;0;20160;840;2.925;45;45;45;0;814.5065187;48.515;3.143;14;13.1;0.936
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;0;0;20;20;20;0;0;4.322;3.411;37.4;37.4;1
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;20;20;20;0;331.1939974;4.322;3.411;37.4;36.5;0.976
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;20;20;20;0;339.3032991;4.322;3.411;37.4;34.2;0.914
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;20;20;20;0;345.0569404;4.322;3.411;37.4;33.9;0.906
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;20;20;20;0;353.1662423;4.322;3.411;37.4;33.3;0.89
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;17280;720;2.858;20;20;20;0;358.9198837;4.322;3.411;37.4;33.6;0.898
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;0;0;40;40;40;0;0;30.85;3.193;37.4;37.4;1
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;40;40;40;0;634.6621101;30.85;3.193;37.4;36.9;0.987
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;40;40;40;0;662.3879948;30.85;3.193;37.4;35.3;0.944
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;40;40;40;0;678.6065983;30.85;3.193;37.4;33.7;0.902
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;40;40;40;0;690.1138807;30.85;3.193;37.4;33.2;0.887
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;40;40;40;0;706.3324846;30.85;3.193;37.4;31.9;0.853
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;17280;720;2.858;40;40;40;0;717.8397673;30.85;3.193;37.4;31.2;0.834
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;0;0;60;60;60;0;0;173.906;3.002;37.4;37.4;1
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;60;60;60;0;951.9931652;173.906;3.002;37.4;35.5;0.949
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;60;60;60;0;993.5819922;173.906;3.002;37.4;34.6;0.925
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;60;60;60;0;1017.909897;173.906;3.002;37.4;33.8;0.905
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;60;60;60;0;1035.170821;173.906;3.002;37.4;31.1;0.83
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;60;60;60;0;1059.498727;173.906;3.002;37.4;31.2;0.833
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;17280;720;2.858;60;60;60;0;1076.759651;173.906;3.002;37.4;30.5;0.816
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;0;1;0;0;7;1;0;2160;0;0;40;40;40;0;0;30.85;3.193;37.4;38.5;1
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;0;1;0;0;7;1;0;4320;180;2.258;40;40;40;0;662.3879948;30.85;3.193;37.4;35.8;0.957
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;0;1;0;0;7;1;0;6480;270;2.433;40;40;40;0;678.6065983;30.85;3.193;37.4;34.9;0.933
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;0;1;0;0;7;1;0;8640;360;2.558;40;40;40;0;690.1138807;30.85;3.193;37.4;35;0.936
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;0;1;0;0;7;1;0;12960;540;2.733;40;40;40;0;706.3324846;30.85;3.193;37.4;35;0.936
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;0;1;0;0;7;1;0;17280;720;2.858;40;40;40;0;717.8397673;30.85;3.193;37.4;31.5;0.842
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;0;0;20;20;20;0;0;4.322;3.411;37.4;37.4;1
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;20;20;20;0;331.1939974;4.322;3.411;37.4;37.4;0.999
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;20;20;20;0;339.3032991;4.322;3.411;37.4;36.4;0.974
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;20;20;20;0;345.0569404;4.322;3.411;37.4;35.7;0.955
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;20;20;20;0;353.1662423;4.322;3.411;37.4;33.5;0.895
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;17280;720;2.858;20;20;20;0;358.9198837;4.322;3.411;37.4;34.3;0.917
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;0;0;40;40;40;0;0;30.85;3.193;37.4;37.4;1
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;40;40;40;0;634.6621101;30.85;3.193;37.4;37.1;0.991
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;40;40;40;0;662.3879948;30.85;3.193;37.4;35.7;0.954
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;40;40;40;0;678.6065983;30.85;3.193;37.4;35.9;0.96
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;40;40;40;0;690.1138807;30.85;3.193;37.4;33.1;0.885
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;40;40;40;0;706.3324846;30.85;3.193;37.4;32.6;0.87
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;17280;720;2.858;40;40;40;0;717.8397673;30.85;3.193;37.4;31;0.83
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;0;0;60;60;60;0;0;173.906;3.002;37.4;37.4;1
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;60;60;60;0;951.9931652;173.906;3.002;37.4;35.5;0.949
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;60;60;60;0;993.5819922;173.906;3.002;37.4;34.6;0.925
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;60;60;60;0;1017.909897;173.906;3.002;37.4;33.8;0.905
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;60;60;60;0;1035.170821;173.906;3.002;37.4;31.1;0.83
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;60;60;60;0;1059.498727;173.906;3.002;37.4;31.2;0.833
-Sousa et al 2021;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;17280;720;2.858;60;60;60;0;1076.759651;173.906;3.002;37.4;30.5;0.816
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;0;0;20;20;20;0;0;4.322;3.411;39.2;39.2;1
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;20;20;20;0;317.3310551;4.322;3.411;39.2;35.3;0.901
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;20;20;20;0;331.1939974;4.322;3.411;39.2;35.1;0.895
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;20;20;20;0;339.3032991;4.322;3.411;39.2;34.3;0.875
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;20;20;20;0;345.0569404;4.322;3.411;39.2;33;0.842
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;20;20;20;0;353.1662423;4.322;3.411;39.2;34.9;0.89
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;17280;720;2.858;20;20;20;0;358.9198837;4.322;3.411;39.2;38.7;0.987
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;0;0;40;40;40;0;0;30.85;3.193;39.2;39.2;1
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;40;40;40;0;634.6621101;30.85;3.193;39.2;35.5;0.906
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;40;40;40;0;662.3879948;30.85;3.193;39.2;34.2;0.873
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;40;40;40;0;678.6065983;30.85;3.193;39.2;33.3;0.85
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;40;40;40;0;690.1138807;30.85;3.193;39.2;32.1;0.819
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;40;40;40;0;706.3324846;30.85;3.193;39.2;36.4;0.928
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;17280;720;2.858;40;40;40;0;717.8397673;30.85;3.193;39.2;34.6;0.882
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;60;60;60;0;951.9931652;173.906;3.002;39.2;39.2;1
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;60;60;60;0;951.9931652;173.906;3.002;39.2;35.5;0.904
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;60;60;60;0;993.5819922;173.906;3.002;39.2;33.8;0.861
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;60;60;60;0;1017.909897;173.906;3.002;39.2;32.6;0.832
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;60;60;60;0;1035.170821;173.906;3.002;39.2;33.4;0.853
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;60;60;60;0;1059.498727;173.906;3.002;39.2;36.5;0.931
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;17280;720;2.858;60;60;60;0;1076.759651;173.906;3.002;39.2;33.6;0.858
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;0;0;20;20;20;0;0;4.322;3.411;39.2;39.2;1
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;20;20;20;0;317.3310551;4.322;3.411;39.2;34.7;0.886
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;20;20;20;0;331.1939974;4.322;3.411;39.2;34.4;0.878
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;20;20;20;0;339.3032991;4.322;3.411;39.2;33.1;0.845
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;20;20;20;0;345.0569404;4.322;3.411;39.2;32.4;0.827
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;20;20;20;0;353.1662423;4.322;3.411;39.2;35.4;0.903
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;17280;720;2.858;20;20;20;0;358.9198837;4.322;3.411;39.2;38.2;0.973
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;0;0;40;40;40;0;0;30.85;3.193;39.2;39.2;1
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;40;40;40;0;634.6621101;30.85;3.193;39.2;35.1;0.894
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;40;40;40;0;662.3879948;30.85;3.193;39.2;33.1;0.844
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;40;40;40;0;678.6065983;30.85;3.193;39.2;33.6;0.857
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;40;40;40;0;690.1138807;30.85;3.193;39.2;33;0.842
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;40;40;40;0;706.3324846;30.85;3.193;39.2;33;0.843
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;17280;720;2.858;40;40;40;0;717.8397673;30.85;3.193;39.2;32.5;0.829
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;0;0;60;60;60;0;0;173.906;3.002;39.2;39.2;1
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;60;60;60;0;951.9931652;173.906;3.002;39.2;36.5;0.93
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;60;60;60;0;993.5819922;173.906;3.002;39.2;33.1;0.844
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;60;60;60;0;1017.909897;173.906;3.002;39.2;32.7;0.833
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;60;60;60;0;1035.170821;173.906;3.002;39.2;32.1;0.818
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;60;60;60;0;1059.498727;173.906;3.002;39.2;32.6;0.832
-Sousa et al 2021;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;17280;720;2.858;60;60;60;0;1076.759651;173.906;3.002;39.2;33.4;0.851
-Sugiman et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Hand lay-up;0;1;0;0;0.4;3.2;plate;distilled water;1;0;1;0;1;35;7;1;0;168;0;0;50;50;50;0;0;75.233;3.095;12.4;12.4;1
-Sugiman et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Hand lay-up;0;1;0;0;0.4;3.2;plate;distilled water;1;0;1;0;1;35;7;1;0;168;7;0.903;50;50;50;0;665.6327379;75.233;3.095;12.4;11.6;0.931
-Sugiman et al 2017;Polyester;1;0;0;0;0;Glass;1;0;Hand lay-up;0;1;0;0;0.4;3.2;plate;distilled water;1;0;1;0;1;35;7;1;0;360;15;1.204;50;50;50;0;703.7396964;75.233;3.095;12.4;9.4;0.756
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;35;35;35;0;0;19.331;3.245;24.9;24.9;1
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;672;28;1.462;35;35;35;0;514.4631757;19.331;3.245;24.9;20.1;0.808
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;1644;68.5;1.842;35;35;35;0;545.7751904;19.331;3.245;24.9;23;0.923
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;2016;84;1.929;35;35;35;0;552.9145962;19.331;3.245;24.9;22.5;0.906
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;2688;112;2.053;35;35;35;0;562.9834675;19.331;3.245;24.9;22;0.886
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;4032;168;2.228;35;35;35;0;577.1747451;19.331;3.245;24.9;21.8;0.878
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;55;55;55;0;0;115.115;3.047;24.9;24.9;1
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;672;28;1.462;55;55;55;0;808.4421333;115.115;3.047;24.9;20.5;0.824
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;1644;68.5;1.842;55;55;55;0;857.6467278;115.115;3.047;24.9;23.6;0.947
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;2016;84;1.929;55;55;55;0;868.865794;115.115;3.047;24.9;21.9;0.881
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;2688;112;2.053;55;55;55;0;884.6883061;115.115;3.047;24.9;23.2;0.931
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;3360;140;2.149;55;55;55;0;896.9612003;115.115;3.047;24.9;22.2;0.891
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;4032;168;2.228;55;55;55;0;906.9888852;115.115;3.047;24.9;22.2;0.891
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;70;70;70;0;0;382.835;2.914;24.9;24.9;1
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;672;28;1.462;70;70;70;0;1028.926351;382.835;2.914;24.9;22.9;0.922
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;1644;68.5;1.842;70;70;70;0;1091.550381;382.835;2.914;24.9;23.3;0.937
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;2688;112;2.053;70;70;70;0;1125.966935;382.835;2.914;24.9;23.5;0.943
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;3360;140;2.149;70;70;70;0;1141.586982;382.835;2.914;24.9;21.2;0.85
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;4032;168;2.228;70;70;70;0;1154.34949;382.835;2.914;24.9;24.1;0.969
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;0;0;0;35;35;35;0;0;19.331;3.245;24.9;24.9;1
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;672;28;1.462;35;35;35;0;514.4631757;19.331;3.245;24.9;22.8;0.915
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;1644;68.5;1.842;35;35;35;0;545.7751904;19.331;3.245;24.9;24;0.963
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;2016;84;1.929;35;35;35;0;552.9145962;19.331;3.245;24.9;21.8;0.876
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;2688;112;2.053;35;35;35;0;562.9834675;19.331;3.245;24.9;21.7;0.871
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;3360;140;2.149;35;35;35;0;570.7934911;19.331;3.245;24.9;22.4;0.9
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;4032;168;2.228;35;35;35;0;577.1747451;19.331;3.245;24.9;21.2;0.854
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;0;0;0;55;55;55;0;0;115.115;3.047;24.9;24.9;1
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;672;28;1.462;55;55;55;0;808.4421333;115.115;3.047;24.9;19.5;0.782
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;1644;68.5;1.842;55;55;55;0;857.6467278;115.115;3.047;24.9;24.9;1
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;2016;84;1.929;55;55;55;0;868.865794;115.115;3.047;24.9;22.9;0.919
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;2688;112;2.053;55;55;55;0;884.6883061;115.115;3.047;24.9;24;0.963
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;3360;140;2.149;55;55;55;0;896.9612003;115.115;3.047;24.9;22.7;0.91
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;4032;168;2.228;55;55;55;0;906.9888852;115.115;3.047;24.9;21.7;0.87
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;0;0;0;70;70;70;0;0;382.835;2.914;24.9;24.9;1
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;672;28;1.462;70;70;70;0;1028.926351;382.835;2.914;24.9;24.4;0.98
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;1644;68.5;1.842;70;70;70;0;1091.550381;382.835;2.914;24.9;23.3;0.938
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;2016;84;1.929;70;70;70;0;1105.829192;382.835;2.914;24.9;24;0.966
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;2688;112;2.053;70;70;70;0;1125.966935;382.835;2.914;24.9;23.2;0.931
-Vieira 2023;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;4032;168;2.228;70;70;70;0;1154.34949;382.835;2.914;24.9;21.2;0.85
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;20;20;20;0;0;4.322;3.411;22.8;22.8;1
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;360;15;1.204;20;20;20;0;281.4958785;4.322;3.411;22.8;22.1;0.972
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;720;30;1.491;20;20;20;0;295.3588144;4.322;3.411;22.8;21.8;0.958
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;1440;60;1.785;20;20;20;0;309.2217542;4.322;3.411;22.8;21.5;0.945
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;20;20;20;0;317.3310551;4.322;3.411;22.8;20.6;0.907
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;20;20;20;0;331.1939974;4.322;3.411;22.8;18.8;0.826
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;30;30;30;0;0;11.928;3.299;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;360;15;1.204;30;30;30;0;422.2438178;11.928;3.299;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;720;30;1.491;30;30;30;0;443.0382217;11.928;3.299;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;1440;60;1.785;30;30;30;0;463.8326313;11.928;3.299;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;30;30;30;0;475.9965826;11.928;3.299;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;2880;120;2.083;30;30;30;0;484.6270438;11.928;3.299;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;30;30;30;0;496.7909961;11.928;3.299;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;60;60;60;0;0;173.906;3.002;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;360;15;1.204;60;60;60;0;844.4876356;173.906;3.002;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;720;30;1.491;60;60;60;0;886.0764433;173.906;3.002;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;1440;60;1.785;60;60;60;0;927.6652626;173.906;3.002;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;60;60;60;0;951.9931652;173.906;3.002;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;2880;120;2.083;60;60;60;0;969.2540876;173.906;3.002;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;60;60;60;0;993.5819922;173.906;3.002;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;0;0;0;20;20;20;0;0;4.322;3.411;22.8;22.8;1
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;20;20;20;0;331.1939974;4.322;3.411;22.8;20.2;0.89
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;0;0;0;30;30;30;0;0;11.928;3.299;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;360;15;1.204;30;30;30;0;422.2438178;11.928;3.299;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;720;30;1.491;30;30;30;0;443.0382217;11.928;3.299;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;1440;60;1.785;30;30;30;0;463.8326313;11.928;3.299;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;30;30;30;0;475.9965826;11.928;3.299;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;2880;120;2.083;30;30;30;0;484.6270438;11.928;3.299;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;30;30;30;0;496.7909961;11.928;3.299;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;0;0;0;60;60;60;0;0;173.906;3.002;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;360;15;1.204;60;60;60;0;844.4876356;173.906;3.002;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;720;30;1.491;60;60;60;0;886.0764433;173.906;3.002;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;1440;60;1.785;60;60;60;0;927.6652626;173.906;3.002;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;60;60;60;0;951.9931652;173.906;3.002;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;2880;120;2.083;60;60;60;0;969.2540876;173.906;3.002;;;
-Yang et al 2018;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;60;60;60;0;993.5819922;173.906;3.002;;;
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Glass;1;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;0;0;0;24;24;24;0;0;6.541;3.365;15.4;15.4;1
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Glass;1;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;540;22.5;1.371;24;24;24;0;347.5262107;6.541;3.365;15.4;14.5;0.94
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Glass;1;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1080;45;1.663;24;24;24;0;364.1617368;6.541;3.365;15.4;13.6;0.88
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Glass;1;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1620;67.5;1.836;24;24;24;0;373.8928974;6.541;3.365;15.4;13.1;0.85
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Glass;1;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;2160;90;1.959;24;24;24;0;380.7972661;6.541;3.365;15.4;12.6;0.82
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Glass;1;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;0;0;0;70;70;70;0;0;382.835;2.914;15.4;15.4;1
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Glass;1;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;540;22.5;1.371;70;70;70;0;1013.618114;382.835;2.914;15.4;14.2;0.925
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Glass;1;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1080;45;1.663;70;70;70;0;1062.138399;382.835;2.914;15.4;13.4;0.87
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Glass;1;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1620;67.5;1.836;70;70;70;0;1090.520951;382.835;2.914;15.4;12.4;0.805
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Glass;1;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;2160;90;1.959;70;70;70;0;1110.658693;382.835;2.914;15.4;11.4;0.74
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Glass;1;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;0;0;0;90;90;90;0;0;1628.498;2.754;15.4;15.4;1
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Glass;1;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;540;22.5;1.371;90;90;90;0;1303.22329;1628.498;2.754;15.4;14;0.91
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Glass;1;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1080;45;1.663;90;90;90;0;1365.606513;1628.498;2.754;15.4;13;0.845
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Glass;1;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1620;67.5;1.836;90;90;90;0;1402.098365;1628.498;2.754;15.4;12;0.78
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Glass;1;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;2160;90;1.959;90;90;90;0;1427.989748;1628.498;2.754;15.4;11.1;0.72
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Carbon;0;1;Hand lay-up;0;1;0;0;0.37;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;0;0;0;24;24;24;0;0;6.541;3.365;33.2;;
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Carbon;0;1;Hand lay-up;0;1;0;0;0.37;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;540;22.5;1.371;24;24;24;0;347.5262107;6.541;3.365;33.2;;
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Carbon;0;1;Hand lay-up;0;1;0;0;0.37;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1080;45;1.663;24;24;24;0;364.1617368;6.541;3.365;33.2;;
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Carbon;0;1;Hand lay-up;0;1;0;0;0.37;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1620;67.5;1.836;24;24;24;0;373.8928974;6.541;3.365;33.2;;
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Carbon;0;1;Hand lay-up;0;1;0;0;0.37;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;2160;90;1.959;24;24;24;0;380.7972661;6.541;3.365;33.2;;
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Carbon;0;1;Hand lay-up;0;1;0;0;0.37;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;0;0;0;70;70;70;0;0;382.835;2.914;33.2;;
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Carbon;0;1;Hand lay-up;0;1;0;0;0.37;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;540;22.5;1.371;70;70;70;0;1013.618114;382.835;2.914;33.2;;
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Carbon;0;1;Hand lay-up;0;1;0;0;0.37;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1080;45;1.663;70;70;70;0;1062.138399;382.835;2.914;33.2;;
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Carbon;0;1;Hand lay-up;0;1;0;0;0.37;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1620;67.5;1.836;70;70;70;0;1090.520951;382.835;2.914;33.2;;
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Carbon;0;1;Hand lay-up;0;1;0;0;0.37;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;2160;90;1.959;70;70;70;0;1110.658693;382.835;2.914;33.2;;
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Carbon;0;1;Hand lay-up;0;1;0;0;0.37;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;0;0;0;90;90;90;0;0;1628.498;2.754;33.2;;
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Carbon;0;1;Hand lay-up;0;1;0;0;0.37;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;540;22.5;1.371;90;90;90;0;1303.22329;1628.498;2.754;33.2;;
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Carbon;0;1;Hand lay-up;0;1;0;0;0.37;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1080;45;1.663;90;90;90;0;1365.606513;1628.498;2.754;33.2;;
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Carbon;0;1;Hand lay-up;0;1;0;0;0.37;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1620;67.5;1.836;90;90;90;0;1402.098365;1628.498;2.754;33.2;;
-Guermazi et al 2016;Epoxy;0;0;0;0;1;Carbon;0;1;Hand lay-up;0;1;0;0;0.37;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;2160;90;1.959;90;90;90;0;1427.989748;1628.498;2.754;33.2;;
-Stazi et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.47;5;dogbone;hygrothermal chamber;1;0;0;1;0;0;7;1;0;0;0;0;40;40;40;0;0;30.85;3.193;32.7;32.7;1
-Stazi et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.47;5;dogbone;hygrothermal chamber;1;0;0;1;0;0;7;1;0;4320;180;2.258;40;40;40;0;662.3879948;30.85;3.193;32.7;30.8;0.943
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;0;0;0;23;23;23;0;0;5.903;3.377;29.5;29.5;1
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;336;14;1.176;23;23;23;0;322.1334256;5.903;3.377;29.5;28.7;0.973
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;2328;97;1.991;23;23;23;0;366.6534432;5.903;3.377;29.5;27.8;0.942
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;3600;150;2.179;23;23;23;0;376.6797015;5.903;3.377;29.5;28.3;0.959
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;0;0;0;40;40;40;0;0;30.85;3.193;29.5;29.5;1
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;792;33;1.531;40;40;40;0;594.5300347;30.85;3.193;29.5;28.3;0.959
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;2328;97;1.991;40;40;40;0;637.6581621;30.85;3.193;29.5;27.3;0.925
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;3600;150;2.179;40;40;40;0;655.095133;30.85;3.193;29.5;26.8;0.908
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;5376;224;2.352;40;40;40;0;671.1355623;30.85;3.193;29.5;26.4;0.895
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;0;0;0;55;55;55;0;0;115.115;3.047;29.5;29.5;1
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;336;14;1.176;55;55;55;0;770.3190611;115.115;3.047;29.5;28.8;0.976
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;792;33;1.531;55;55;55;0;817.4787977;115.115;3.047;29.5;29.1;0.986
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;2328;97;1.991;55;55;55;0;876.7799729;115.115;3.047;29.5;26.6;0.902
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;3600;150;2.179;55;55;55;0;900.7558079;115.115;3.047;29.5;27.5;0.932
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;5376;224;2.352;55;55;55;0;922.8113982;115.115;3.047;29.5;27.5;0.932
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;0;0;0;23;23;23;0;0;5.903;3.377;18.9;18.9;1
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;336;14;1.176;23;23;23;0;322.1334256;5.903;3.377;18.9;17.6;0.931
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;792;33;1.531;23;23;23;0;341.8547699;5.903;3.377;18.9;17.7;0.937
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;2328;97;1.991;23;23;23;0;366.6534432;5.903;3.377;18.9;17;0.899
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;3600;150;2.179;23;23;23;0;376.6797015;5.903;3.377;18.9;18;0.952
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;5376;224;2.352;23;23;23;0;385.9029483;5.903;3.377;18.9;17.4;0.921
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;0;0;0;40;40;40;0;0;30.85;3.193;18.9;18.9;1
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;336;14;1.176;40;40;40;0;560.2320444;30.85;3.193;18.9;17.8;0.942
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;792;33;1.531;40;40;40;0;594.5300347;30.85;3.193;18.9;17.3;0.915
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;2328;97;1.991;40;40;40;0;637.6581621;30.85;3.193;18.9;16.8;0.889
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;3600;150;2.179;40;40;40;0;655.095133;30.85;3.193;18.9;17.7;0.937
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;5376;224;2.352;40;40;40;0;671.1355623;30.85;3.193;18.9;17;0.899
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;0;0;0;55;55;55;0;0;115.115;3.047;18.9;18.9;1
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;336;14;1.176;55;55;55;0;770.3190611;115.115;3.047;18.9;17;0.899
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;792;33;1.531;55;55;55;0;817.4787977;115.115;3.047;18.9;17.4;0.921
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;2328;97;1.991;55;55;55;0;876.7799729;115.115;3.047;18.9;16.9;0.894
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;3600;150;2.179;55;55;55;0;900.7558079;115.115;3.047;18.9;18.4;0.974
-Fam et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;5376;224;2.352;55;55;55;0;922.8113982;115.115;3.047;18.9;17.4;0.921
-Carra and Carvelli 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;0;0;0;40;40;40;0;0;30.85;3.193;31.1;31.1;1
-Carra and Carvelli 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;1344;56;1.756;40;40;40;0;615.6837941;30.85;3.193;31.1;30.7;0.986
-Carra and Carvelli 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;1344;56;1.756;40;40;40;0;615.6837941;30.85;3.193;31.1;30.9;0.994
-Carra and Carvelli 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;2688;112;2.053;40;40;40;0;643.4096772;30.85;3.193;31.1;30.5;0.98
-Carra and Carvelli 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;5472;228;2.36;40;40;40;0;671.8435454;30.85;3.193;31.1;30.7;0.986
-Carra and Carvelli 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;4032;168;2.228;40;40;40;0;659.6282801;30.85;3.193;31.1;30.8;0.991
-Carra and Carvelli 2014;Polyester;0;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;0;0;0;40;40;40;0;0;30.85;3.193;31.1;31.1;1
-Carra and Carvelli 2014;Polyester;0;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;2688;112;2.053;40;40;40;0;643.4096772;30.85;3.193;31.1;29.8;0.958
-Carra and Carvelli 2014;Polyester;0;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;5472;228;2.36;40;40;40;0;671.8435454;30.85;3.193;31.1;30.4;0.978
-Carra and Carvelli 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;0;0;0;40;40;40;0;0;30.85;3.193;31.1;31.1;1
-Carra and Carvelli 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;672;28;1.462;40;40;40;0;587.9579151;30.85;3.193;31.1;30.5;0.979
-Carra and Carvelli 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;1344;56;1.756;40;40;40;0;615.6837941;30.85;3.193;31.1;30.3;0.973
-Carra and Carvelli 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;1344;56;1.756;40;40;40;0;615.6837941;30.85;3.193;31.1;29.4;0.944
-Carra and Carvelli 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;2688;112;2.053;40;40;40;0;643.4096772;30.85;3.193;31.1;29.6;0.953
-Carra and Carvelli 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;5472;228;2.36;40;40;40;0;671.8435454;30.85;3.193;31.1;28.7;0.924
-Carra and Carvelli 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;4032;168;2.228;40;40;40;0;659.6282801;30.85;3.193;31.1;30.1;0.968
-Carra and Carvelli 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.9;plate;in situ;0;1;0;1;0;0;7;0.9;0;8064;336;2.528;40;40;40;0;687.354166;30.85;3.193;31.1;30.2;0.971
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;20;20;20;0;0;4.322;3.411;37.6;37.6;1
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;20;20;20;0;317.3310551;4.322;3.411;37.6;31;0.824
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;20;20;20;0;331.1939974;4.322;3.411;37.6;36.5;0.971
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;20;20;20;0;339.3032991;4.322;3.411;37.6;35;0.931
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;20;20;20;0;345.0569404;4.322;3.411;37.6;32;0.851
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;40;40;40;0;0;30.85;3.193;37.6;37.6;1
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;40;40;40;0;634.6621101;30.85;3.193;37.6;34.8;0.926
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;40;40;40;0;662.3879948;30.85;3.193;37.6;33;0.878
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;40;40;40;0;678.6065983;30.85;3.193;37.6;30.5;0.811
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;40;40;40;0;690.1138807;30.85;3.193;37.6;33.5;0.891
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;60;60;60;0;0;173.906;3.002;37.6;37.6;1
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;60;60;60;0;951.9931652;173.906;3.002;37.6;36;0.957
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;60;60;60;0;993.5819922;173.906;3.002;37.6;33.5;0.891
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;60;60;60;0;1017.909897;173.906;3.002;37.6;33;0.878
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;60;60;60;0;1035.170821;173.906;3.002;37.6;30.5;0.811
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;0;0;0;20;20;20;0;0;4.322;3.411;37.6;37.6;1
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;20;20;20;0;339.3032991;4.322;3.411;37.6;34;0.904
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;20;20;20;0;345.0569404;4.322;3.411;37.6;28.5;0.758
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;0;0;0;40;40;40;0;0;30.85;3.193;37.6;37.6;1
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;40;40;40;0;678.6065983;30.85;3.193;37.6;33;0.878
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;40;40;40;0;690.1138807;30.85;3.193;37.6;31;0.824
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;0;0;0;60;60;60;0;0;173.906;3.002;37.6;37.6;1
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;60;60;60;0;951.9931652;173.906;3.002;37.6;33;0.878
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;60;60;60;0;1017.909897;173.906;3.002;37.6;30.5;0.811
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;60;60;60;0;1035.170821;173.906;3.002;37.6;31;0.824
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;hygrothermal chamber;1;0;0;1;0;0;7;1;0;0;0;0;40;40;40;0;0;30.85;3.193;37.6;37.6;1
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;hygrothermal chamber;1;0;0;1;0;0;7;1;0;2160;90;1.959;40;40;40;0;634.6621101;30.85;3.193;37.6;34.5;0.918
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;hygrothermal chamber;1;0;0;1;0;0;7;1;0;4320;180;2.258;40;40;40;0;662.3879948;30.85;3.193;37.6;31;0.824
-Correia et al 2010;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;hygrothermal chamber;1;0;0;1;0;0;7;1;0;6480;270;2.433;40;40;40;0;678.6065983;30.85;3.193;37.6;29.5;0.785
-Cabral-Fonseca et al 2012;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;20;20;20;0;0;4.322;3.411;37.6;37.6;1
-Cabral-Fonseca et al 2012;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;20;20;20;0;353.1662423;4.322;3.411;37.6;29.7;0.79
-Cabral-Fonseca et al 2012;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;40;40;40;0;0;30.85;3.193;37.6;37.6;1
-Cabral-Fonseca et al 2012;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;40;40;40;0;706.3324846;30.85;3.193;37.6;33.5;0.89
-Cabral-Fonseca et al 2012;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;60;60;60;0;0;173.906;3.002;37.6;37.6;1
-Cabral-Fonseca et al 2012;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;60;60;60;0;1059.498727;173.906;3.002;37.6;29.7;0.79
-Cabral-Fonseca et al 2012;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;0;0;0;20;20;20;0;0;4.322;3.411;37.6;37.6;1
-Cabral-Fonseca et al 2012;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;20;20;20;0;353.1662423;4.322;3.411;37.6;31.2;0.83
-Cabral-Fonseca et al 2012;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;0;0;0;40;40;40;0;0;30.85;3.193;37.6;37.6;1
-Cabral-Fonseca et al 2012;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;40;40;40;0;706.3324846;30.85;3.193;37.6;30.5;0.81
-Cabral-Fonseca et al 2012;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;0;0;0;60;60;60;0;0;173.906;3.002;37.6;37.6;1
-Cabral-Fonseca et al 2012;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;60;60;60;0;1059.498727;173.906;3.002;37.6;30.5;0.81
-Yang et al 2022;Polyester;1;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;23;23;23;0;0;5.903;3.377;9.9;9.9;1
-Yang et al 2022;Polyester;1;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;23;23;23;0;364.9307133;5.903;3.377;9.9;9.2;0.933
-Yang et al 2022;Polyester;1;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;23;23;23;0;380.873097;5.903;3.377;9.9;9;0.914
-Yang et al 2022;Polyester;1;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;0;0;0;23;23;23;0;0;5.903;3.377;9.9;9.9;1
-Yang et al 2022;Polyester;1;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;360;15;1.204;23;23;23;0;323.7202603;5.903;3.377;9.9;7.6;0.769
-Yang et al 2022;Polyester;1;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;23;23;23;0;364.9307133;5.903;3.377;9.9;7.7;0.779
-Yang et al 2022;Polyester;1;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;23;23;23;0;380.873097;5.903;3.377;9.9;7.3;0.744
-Yang et al 2022;Polyester;1;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt fog;0;1;0;1;1;5;7;0.94;0;0;0;0;35;35;35;0;0;19.331;3.245;9.9;9.9;1
-Yang et al 2022;Polyester;1;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt fog;0;1;0;1;1;5;7;0.94;0;360;15;1.204;35;35;35;0;492.6177875;19.331;3.245;9.9;9.1;0.923
-Yang et al 2022;Polyester;1;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt fog;0;1;0;1;1;5;7;0.94;0;2160;90;1.959;35;35;35;0;555.3293464;19.331;3.245;9.9;8.8;0.892
-Yang et al 2022;Polyester;1;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.94;0;0;0;0;40;40;40;0;0;30.85;3.193;9.9;9.9;1
-Yang et al 2022;Polyester;1;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.94;0;360;15;1.204;40;40;40;0;562.9917571;30.85;3.193;9.9;8.7;0.881
-Yang et al 2022;Polyester;1;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.94;0;2160;90;1.959;40;40;40;0;634.6621101;30.85;3.193;9.9;7.2;0.726
-Yang et al 2022;Polyester;1;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.94;0.4;0;0;0;40;40;40;0;0;30.85;3.193;9.9;9.9;1
-Yang et al 2022;Polyester;1;1;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2.7;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.94;0.4;360;15;1.204;40;40;40;0;562.9917571;30.85;3.193;9.9;8.5;0.862
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;1000;42;1.633;60;60;60;0;906.2647709;173.906;3.002;21.6;20.4;0.942
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;1000;42;1.633;60;60;60;0;906.2647709;173.906;3.002;21.6;20.4;0.942
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.1;0;0;0;60;60;60;0;0;173.906;3.002;21.6;21.6;1
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.3;1000;42;1.633;60;60;60;0;906.2647709;173.906;3.002;21.6;19.6;0.906
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;0;0;0;60;60;60;0;0;173.906;3.002;21.6;21.6;1
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;2000;83;1.924;60;60;60;0;947.1350221;173.906;3.002;21.6;19.5;0.903
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.1;2000;83;1.924;60;60;60;0;947.1350221;173.906;3.002;21.6;20.3;0.94
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.2;2000;83;1.924;60;60;60;0;947.1350221;173.906;3.002;21.6;20.2;0.936
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.3;2000;83;1.924;60;60;60;0;947.1350221;173.906;3.002;21.6;19.9;0.919
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;0;0;0;60;60;60;0;0;173.906;3.002;21.6;21.6;1
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;1000;42;1.633;60;60;60;0;906.2647709;173.906;3.002;21.6;20.6;0.954
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.1;1000;42;1.633;60;60;60;0;906.2647709;173.906;3.002;21.6;20.7;0.958
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.2;1000;42;1.633;60;60;60;0;906.2647709;173.906;3.002;21.6;18.6;0.863
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.3;1000;42;1.633;60;60;60;0;906.2647709;173.906;3.002;21.6;20.1;0.931
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;2000;83;1.924;60;60;60;0;947.1350221;173.906;3.002;21.6;20.4;0.943
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;2000;83;1.924;60;60;60;0;947.1350221;173.906;3.002;21.6;20.4;0.943
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.1;2000;83;1.924;60;60;60;0;947.1350221;173.906;3.002;21.6;20.3;0.939
-Miller 2014;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.2;2000;83;1.924;60;60;60;0;947.1350221;173.906;3.002;21.6;20.9;0.967
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;0;0;0;60;60;60;0;0;173.906;3.002;21.6;21.6;1
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;1000;42;1.633;60;60;60;0;906.2647709;173.906;3.002;21.6;20.8;0.964
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.1;1000;42;1.633;60;60;60;0;906.2647709;173.906;3.002;21.6;20.1;0.929
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.2;1000;42;1.633;60;60;60;0;906.2647709;173.906;3.002;21.6;21.5;0.997
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;0;0;0;60;60;60;0;0;173.906;3.002;21.6;21.6;1
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;2000;83;1.924;60;60;60;0;947.1350221;173.906;3.002;21.6;19.4;0.896
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.1;2000;83;1.924;60;60;60;0;947.1350221;173.906;3.002;21.6;18.3;0.847
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.2;2000;83;1.924;60;60;60;0;947.1350221;173.906;3.002;21.6;20.1;0.931
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.3;2000;83;1.924;60;60;60;0;947.1350221;173.906;3.002;21.6;17.4;0.803
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;0;0;0;60;60;60;0;0;173.906;3.002;21.6;21.6;1
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;1000;42;1.633;60;60;60;0;906.2647709;173.906;3.002;21.6;20.9;0.965
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.1;1000;42;1.633;60;60;60;0;906.2647709;173.906;3.002;21.6;20.6;0.953
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.2;1000;42;1.633;60;60;60;0;906.2647709;173.906;3.002;21.6;20.2;0.937
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.3;1000;42;1.633;60;60;60;0;906.2647709;173.906;3.002;21.6;20.5;0.948
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;0;0;0;60;60;60;0;0;173.906;3.002;21.6;21.6;1
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;2000;83;1.924;60;60;60;0;947.1350221;173.906;3.002;21.6;18.8;0.87
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;2000;83;1.924;60;60;60;0;947.1350221;173.906;3.002;21.6;18.8;0.87
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.1;2000;83;1.924;60;60;60;0;947.1350221;173.906;3.002;21.6;19;0.881
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.2;2000;83;1.924;60;60;60;0;947.1350221;173.906;3.002;21.6;21.2;0.979
-Miller 2014;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.3;2000;83;1.924;60;60;60;0;947.1350221;173.906;3.002;21.6;18.4;0.85
-Nishizaki et al 2015;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.43;3.2;plate;in situ;0;1;0;0;0;0;7;0.5;0;0;0;0;12.5;12.5;12.5;0;0;1.927;3.501;20.9;20.9;1
-Nishizaki et al 2015;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.39;3.2;plate;in situ;0;1;0;0;0;0;7.5;0.5;0;0;0;0;12.5;12.5;12.5;0;0;1.927;3.501;19.2;19.2;1
-Nishizaki et al 2015;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.36;3.2;plate;in situ;0;1;0;0;0;0;7.5;0.5;0;0;0;0;12.5;12.5;12.5;0;0;1.927;3.501;17.9;17.9;1
-Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;14;1;0;0;0;0;20;20;20;0;0;4.322;3.411;20.7;20.7;1
-Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;14;1;0;72;3;0.602;20;20;20;0;249.307182;4.322;3.411;20.7;20.3;0.981
-Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;14;1;0;240;10;1.041;20;20;20;0;273.3865841;4.322;3.411;20.7;19.6;0.947
-Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;14;1;0;720;30;1.491;20;20;20;0;295.3588144;4.322;3.411;20.7;19;0.918
-Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;14;1;0;1440;60;1.785;20;20;20;0;309.2217542;4.322;3.411;20.7;18.9;0.914
-Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;12;1;0;0;0;0;20;20;20;0;0;4.322;3.411;20.7;20.7;1
-Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;12;1;0;72;3;0.602;20;20;20;0;249.307182;4.322;3.411;20.7;20.5;0.988
-Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;12;1;0;240;10;1.041;20;20;20;0;273.3865841;4.322;3.411;20.7;19.9;0.961
-Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;12;1;0;720;30;1.491;20;20;20;0;295.3588144;4.322;3.411;20.7;19.6;0.945
-Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;12;1;0;1440;60;1.785;20;20;20;0;309.2217542;4.322;3.411;20.7;19.5;0.943
-Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;20;20;20;0;0;4.322;3.411;20.7;20.7;1
-Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;tap water;1;0;1;0;0;0;7.5;1;0;72;3;0.602;20;20;20;0;249.307182;4.322;3.411;20.7;20.7;0.997
-Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;tap water;1;0;1;0;0;0;7.5;1;0;240;10;1.041;20;20;20;0;273.3865841;4.322;3.411;20.7;20.3;0.978
-Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;tap water;1;0;1;0;0;0;7.5;1;0;720;30;1.491;20;20;20;0;295.3588144;4.322;3.411;20.7;19.9;0.961
-Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;tap water;1;0;1;0;0;0;7.5;1;0;1440;60;1.785;20;20;20;0;309.2217542;4.322;3.411;20.7;19.9;0.959
-Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;acid solution;1;0;1;0;0;0;2;1;0;0;0;0;20;20;20;0;0;4.322;3.411;20.7;20.7;1
-Stamenović et al 2011;Polyester;0;1;0;0;0;Glass;1;0;FW;0;0;1;0;0.36;3.5;plate;acid solution;1;0;1;0;0;0;1;1;0;0;0;0;20;20;20;0;0;4.322;3.411;20.7;20.7;1
-Rosa et al 2024;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.33;3.2;square tube;in situ;1;0;0;1;1;7;7.5;0.5;0;0;0;0;21;21;21;0;0;4.799;3.4;37.9;37.9;1
-Rosa et al 2024;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.43;8;I-beam web;in situ;0;1;0;1;1;7;7.5;0.5;0;0;0;0;21;21;21;0;0;4.799;3.4;34.2;34.2;1
-Keller et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;8;I-beam flange;in situ;0;1;0;1;0;0;7.5;0.73;0.2;0;0;0;2;2;2;0;0;0.577;3.634;34.2;34.2;1
-Keller et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;8;I-beam web;in situ;0;1;0;1;0;0;7.5;0.73;0.2;0;0;0;2;2;2;0;0;0.577;3.634;22.8;22.8;1
-Sousa et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;in situ;0;1;0;1;0;0;7.5;0.74;0;17280;720;2.858;11.3;23.1;17.2;11.8;308.6710999;3.212;3.444;37.6;31;0.824
-Sousa et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;QUV chamber;0;1;0;1;0;0;7.5;0.75;0;0;0;0;50;60;55;10;0;115.115;3.047;37.6;37.6;1
-Sousa et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;QUV chamber;0;1;0;1;0;0;7.5;0.75;0;1000;42;1.633;50;60;55;10;830.7427067;115.115;3.047;37.6;33.3;0.886
-Sousa et al 2016;Polyester;1;0;0;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.5;5;square tube;QUV chamber;0;1;0;1;0;0;7.5;0.75;0;2000;83;1.924;50;60;55;10;868.2071036;115.115;3.047;37.6;37;0.983
-Sousa et al 2016;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;square tube;in situ;0;1;0;1;0;0;7.5;0.74;0;8640;360;2.558;11.3;23.1;17.2;11.8;296.7489687;3.212;3.444;38.9;35;0.9
-Sousa et al 2016;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;square tube;QUV chamber;0;1;0;1;0;0;7.5;0.75;0;0;0;0;50;60;55;10;0;115.115;3.047;38.9;38.9;1
-Sousa et al 2016;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.51;5;square tube;QUV chamber;0;1;0;1;0;0;7.5;0.75;0;3000;125;2.1;50;60;55;10;890.7281232;115.115;3.047;38.9;38.8;0.998
-Lopez-Anido et al 2001;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.49;9.9;honeycomb deck;tap water;1;0;1;0;0;0;7.5;1;0;3000;0;0;23;23;23;0;0;5.903;3.377;22.4;22.4;1
-Lopez-Anido et al 2001;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.49;9.9;honeycomb deck;tap water;1;0;1;0;0;0;7.5;1;0;3000;125;2.1;23;23;23;0;372.486306;5.903;3.377;22.4;21.6;0.964
-Lopez-Anido et al 2001;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.49;9.9;honeycomb deck;tap water;1;0;1;0;0;0;7.5;1;0;10000;417;2.621;23;23;23;0;400.1960717;5.903;3.377;22.4;21.9;0.978
-Lopez-Anido et al 2001;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.49;9.9;honeycomb deck;salt water;1;0;1;0;0;0;7.5;1;0;1000;0;0;23;23;23;0;0;5.903;3.377;22.4;22.4;1
-Lopez-Anido et al 2001;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.49;9.9;honeycomb deck;salt water;1;0;1;0;0;0;7.5;1;0;3000;125;2.1;23;23;23;0;372.486306;5.903;3.377;22.4;22;0.982
-Lopez-Anido et al 2001;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.49;9.9;honeycomb deck;in situ;0;1;0;1;0;0;7.5;0.75;0;0;0;0;21;30;25.5;9;0;7.618;3.348;22.4;22.4;1
-Lopez-Anido et al 2001;Hybrid;1;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.61;8;deck panel;tap water;1;0;1;0;0;0;7.5;1;0;3000;0;0;23;23;23;0;0;5.903;3.377;39.5;39.5;1
-Lopez-Anido et al 2001;Hybrid;1;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.61;8;deck panel;tap water;1;0;1;0;0;0;7.5;1;0;3000;125;2.1;23;23;23;0;372.486306;5.903;3.377;39.5;39.1;0.99
-Lopez-Anido et al 2001;Hybrid;1;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.61;8;deck panel;tap water;1;0;1;0;0;0;7.5;1;0;10000;417;2.621;23;23;23;0;400.1960717;5.903;3.377;39.5;38.9;0.985
-Lopez-Anido et al 2001;Hybrid;1;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.61;8;deck panel;salt water;1;0;1;0;0;0;7.5;1;0;3000;0;0;23;23;23;0;0;5.903;3.377;39.5;39.5;1
-Lopez-Anido et al 2001;Hybrid;1;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.61;8;deck panel;salt water;1;0;1;0;0;0;7.5;1;0;3000;125;2.1;23;23;23;0;372.486306;5.903;3.377;39.5;39.3;0.995
-Lopez-Anido et al 2001;Hybrid;1;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.61;8;deck panel;salt water;1;0;1;0;0;0;7.5;1;0;10000;417;2.621;23;23;23;0;400.1960717;5.903;3.377;39.5;37.8;0.957
-Lopez-Anido et al 2001;Hybrid;1;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.61;8;deck panel;alkaline solution;1;0;1;0;0;0;9.5;1;0;1000;0;0;23;23;23;0;0;5.903;3.377;39.5;39.5;1
-Lopez-Anido et al 2001;Hybrid;1;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.61;8;deck panel;alkaline solution;1;0;1;0;0;0;9.5;1;0;10000;417;2.621;23;23;23;0;400.1960717;5.903;3.377;39.5;38.1;0.965
-Lopez-Anido et al 2001;Hybrid;1;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.61;8;deck panel;in situ;0;1;0;1;0;0;7.5;0.75;0;0;0;0;23;23;23;0;0;5.903;3.377;39.5;39.5;1
-Lopez-Anido et al 2001;Hybrid;1;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.61;8;deck panel;in situ;0;1;0;1;0;0;7.5;0.75;0;8760;365;2.563;23;23;23;0;397.1327278;5.903;3.377;39.5;39.5;1
-Lopez-Anido et al 2001;Vinylester;0;0;1;0;0;Glass;1;0;VARTM;0;0;0;1;0.56;6.9;deck sandwich face;tap water;1;0;1;0;0;0;7.5;1;0;1000;0;0;23;23;23;0;0;5.903;3.377;23.6;23.6;1
-Lopez-Anido et al 2001;Vinylester;0;0;1;0;0;Glass;1;0;VARTM;0;0;0;1;0.56;6.9;deck sandwich face;tap water;1;0;1;0;0;0;7.5;1;0;1000;42;1.633;23;23;23;0;347.4014955;5.903;3.377;23.6;22.1;0.936
-Lopez-Anido et al 2001;Vinylester;0;0;1;0;0;Glass;1;0;VARTM;0;0;0;1;0.56;6.9;deck sandwich face;salt water;1;0;1;0;0;0;7.5;1;0;1000;0;0;23;23;23;0;0;5.903;3.377;23.6;23.6;1
-Lopez-Anido et al 2001;Vinylester;0;0;1;0;0;Glass;1;0;VARTM;0;0;0;1;0.56;6.9;deck sandwich face;salt water;1;0;1;0;0;0;7.5;1;0;1000;42;1.633;23;23;23;0;347.4014955;5.903;3.377;23.6;21.8;0.924
-Lopez-Anido et al 2001;Vinylester;0;0;1;0;0;Glass;1;0;VARTM;0;0;0;1;0.56;6.9;deck sandwich face;in situ;0;1;0;1;0;0;7.5;0.75;0;0;0;0;23;23;23;0;0;5.903;3.377;23.6;23.6;1
-Lopez-Anido et al 2001;Polyester;1;0;0;0;0;Glass;1;0;Hand lay-up;0;1;0;0;0.6;8.8;honeycomb sandwich face;tap water;1;0;1;0;0;0;7.5;1;0;3000;0;0;23;23;23;0;0;5.903;3.377;16.4;16.4;1
-Lopez-Anido et al 2001;Polyester;1;0;0;0;0;Glass;1;0;Hand lay-up;0;1;0;0;0.6;8.8;honeycomb sandwich face;salt water;1;0;1;0;0;0;7.5;1;0;3000;0;0;23;23;23;0;0;5.903;3.377;16.4;16.4;1
-Lopez-Anido et al 2001;Polyester;1;0;0;0;0;Glass;1;0;Hand lay-up;0;1;0;0;0.6;8.8;honeycomb sandwich face;in situ;0;1;0;1;0;0;7.5;0.75;0;0;0;0;23;23;23;0;0;5.903;3.377;16.4;16.4;1
-Bazli et al 2020;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;1000;0;0;50;60;55;10;0;115.115;3.047;37.1;37.1;1
-Bazli et al 2020;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;1500;63;1.806;50;60;55;10;853.0432826;115.115;3.047;37.1;36;0.97
-Bazli et al 2020;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;2000;83;1.924;50;60;55;10;868.2071036;115.115;3.047;37.1;35;0.943
-Bazli et al 2020;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;2;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;3000;125;2.1;50;60;55;10;890.7281232;115.115;3.047;37.1;32;0.863
-Bazli et al 2020;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;5;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;1000;0;0;50;60;55;10;0;115.115;3.047;45;45;1
-Bazli et al 2020;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;5;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;2000;83;1.924;50;60;55;10;868.2071036;115.115;3.047;45;41;0.911
-Bazli et al 2020;Vinylester;0;0;1;0;0;Glass;1;0;Pultrusion;1;0;0;0;0.6;5;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;3000;125;2.1;50;60;55;10;890.7281232;115.115;3.047;45;40;0.889
+﻿Author;Type of resin;Isophtalic polyester resin;Orthophtalic polyester resin;Vinylester resin;Phenolic resin;Epoxy resin;Type of fiber;Glass fiber;Carbon fiber;Basalt fiber;Manufacturing process;Pultrusion;Hand lay-up;Filament winding;VARTM;Fiber volume fraction;Profile thickness (mm);Coupon description;Aging effect;Steady condition;Cyclic condition;Immersion;Moisture;Presence of salts;Salt concentration (g/L);pH;Relative humidity;Sustained loading;Exposure time (hours);Exposure time (days);log10(t);Min. exposure temperature (°C);Max. exposure temperature (°C);Avg. exposure temperature (°C);Temperature range (°C);Temperature x time;k(T);1/T (Kelvin);Unaged elastic modulus (GPa);Residual elastic modulus (GPa);Elastic modulus retention
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;23;23;23;0;0;5.903;0;29.9;29.9;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;672;28;1.462;23;23;23;0;338.1;5.903;0;29.9;28.3;0.946
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;70;70;70;0;0;382.835;0;29.9;29.9;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;672;28;1.462;70;70;70;0;1028.9;382.835;0;29.9;28.3;0.946
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;23;23;23;0;0;5.903;0;29.9;29.9;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;2568;107;2.033;23;23;23;0;368.9;5.903;0;29.9;29.4;0.983
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;70;70;70;0;0;382.835;0;29.9;29.9;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;2568;107;2.033;70;70;70;0;1122.8;382.835;0;29.9;30.7;1.027
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;23;23;23;0;0;5.903;0;29.9;29.9;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;4608;192;2.286;23;23;23;0;382.4;5.903;0;29.9;30.5;1.02
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;70;70;70;0;0;382.835;0;29.9;29.9;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;4608;192;2.286;70;70;70;0;1163.7;382.835;0;29.9;28.5;0.953
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;23;23;23;0;0;5.903;0;29.9;29.9;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;6240;260;2.417;23;23;23;0;389.3;5.903;0;29.9;32.3;1.08
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;70;70;70;0;0;382.835;0;29.9;29.9;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;6240;260;2.417;70;70;70;0;1184.9;382.835;0;29.9;32.8;1.097
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;100;100;100;0;0;3168.831;0;29.9;29.9;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;4.7;M profile top flange;tap water;1;0;1;0;0;0;7.5;1;0;504;21;1.342;100;100;100;0;1441.1;3168.831;0;29.9;27.2;0.91
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;23;23;23;0;0;5.903;0;11.7;11.7;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;672;28;1.462;23;23;23;0;338.1;5.903;0;11.7;13.2;1.128
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;70;70;70;0;0;382.835;0;11.7;11.7;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;672;28;1.462;70;70;70;0;1028.9;382.835;0;11.7;10;0.855
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;23;23;23;0;0;5.903;0;11.7;11.7;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;2568;107;2.033;23;23;23;0;368.9;5.903;0;11.7;15.3;1.308
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;70;70;70;0;0;382.835;0;11.7;11.7;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;2568;107;2.033;70;70;70;0;1122.8;382.835;0;11.7;13.7;1.171
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;23;23;23;0;0;5.903;0;11.7;11.7;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;4608;192;2.286;23;23;23;0;382.4;5.903;0;11.7;11.9;1.017
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;70;70;70;0;0;382.835;0;11.7;11.7;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;4608;192;2.286;70;70;70;0;1163.7;382.835;0;11.7;10.3;0.88
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;23;23;23;0;0;5.903;0;11.7;11.7;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;6240;260;2.417;23;23;23;0;389.3;5.903;0;11.7;15.8;1.35
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;70;70;70;0;0;382.835;0;11.7;11.7;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;6240;260;2.417;70;70;70;0;1184.9;382.835;0;11.7;14.3;1.222
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;100;100;100;0;0;3168.831;0;11.7;11.7;1
+Shao and Kouadio (2002);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.37;3.2;M profile web;tap water;1;0;1;0;0;0;7.5;1;0;504;21;1.342;100;100;100;0;1441.1;3168.831;0;11.7;13.8;1.179
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;672;0;0;25;25;25;0;0;7.242;0;22;22;1
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;672;28;1.462;25;25;25;0;367.5;7.242;0;22;24;1.091
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;1344;56;1.756;25;25;25;0;384.8;7.242;0;22;25;1.136
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;2688;112;2.053;25;25;25;0;402.1;7.242;0;22;25;1.136
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;5376;224;2.352;25;25;25;0;419.5;7.242;0;22;26;1.182
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;672;0;0;40;40;40;0;0;30.85;0;22;22;1
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;672;28;1.462;40;40;40;0;588;30.85;0;22;25;1.136
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;1344;56;1.756;40;40;40;0;615.7;30.85;0;22;24;1.091
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;2688;112;2.053;40;40;40;0;643.4;30.85;0;22;25;1.136
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;5376;224;2.352;40;40;40;0;671.1;30.85;0;22;26;1.182
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;672;0;0;60;60;60;0;0;173.906;0;22;22;1
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;672;28;1.462;60;60;60;0;881.9;173.906;0;22;25;1.136
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;1344;56;1.756;60;60;60;0;923.5;173.906;0;22;25;1.136
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;2688;112;2.053;60;60;60;0;965.1;173.906;0;22;25;1.136
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;5376;224;2.352;60;60;60;0;1006.7;173.906;0;22;24;1.091
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;672;0;0;80;80;80;0;0;805.938;0;22;22;1
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;672;28;1.462;80;80;80;0;1175.9;805.938;0;22;25;1.136
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;1344;56;1.756;80;80;80;0;1231.4;805.938;0;22;23;1.045
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;2688;112;2.053;80;80;80;0;1286.8;805.938;0;22;25;1.136
+Grammatikos et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.45;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;5376;224;2.352;80;80;80;0;1342.3;805.938;0;22;27;1.227
+Heshmati et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;10;plate;distilled water;1;0;1;0;0;0;7;1;0;5040;0;0;20;20;20;0;0;4.322;0;14;14;1
+Heshmati et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;10;plate;distilled water;1;0;1;0;0;0;7;1;0;5040;210;2.324;20;20;20;0;334.3;4.322;0;14;13;0.926
+Heshmati et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;10;plate;distilled water;1;0;1;0;0;0;7;1;0;20160;840;2.925;20;20;20;0;362;4.322;0;14;12.5;0.892
+Heshmati et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;10;plate;salt water;1;0;1;0;1;50;7;1;0;5040;0;0;20;20;20;0;0;4.322;0;14;14;1
+Heshmati et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;10;plate;salt water;1;0;1;0;1;50;7;1;0;5040;210;2.324;20;20;20;0;334.3;4.322;0;14;12.8;0.912
+Heshmati et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;10;plate;salt water;1;0;1;0;1;50;7;1;0;20160;840;2.925;20;20;20;0;362;4.322;0;14;13.3;0.948
+Heshmati et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;10;plate;hygrothermal chamber;1;0;1;0;0;0;7;0.95;0;5040;0;0;45;45;45;0;0;48.515;0;14;14;1
+Heshmati et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;10;plate;hygrothermal chamber;1;0;1;0;0;0;7;0.95;0;5040;210;2.324;45;45;45;0;752.1;48.515;0;14;12.3;0.876
+Heshmati et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;10;plate;hygrothermal chamber;1;0;1;0;0;0;7;0.95;0;20160;840;2.925;45;45;45;0;814.5;48.515;0;14;13.4;0.955
+Heshmati et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;10;plate;distilled water;1;0;1;0;0;0;7;1;0;5040;0;0;45;45;45;0;0;48.515;0;14;14;1
+Heshmati et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;10;plate;distilled water;1;0;1;0;0;0;7;1;0;5040;210;2.324;45;45;45;0;752.1;48.515;0;14;12.5;0.89
+Heshmati et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;10;plate;distilled water;1;0;1;0;0;0;7;1;0;20160;840;2.925;45;45;45;0;814.5;48.515;0;14;13.2;0.941
+Heshmati et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;10;plate;salt water;1;0;1;0;1;50;7;1;0;5040;0;0;45;45;45;0;0;48.515;0;14;14;1
+Heshmati et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;10;plate;salt water;1;0;1;0;1;50;7;1;0;5040;210;2.324;45;45;45;0;752.1;48.515;0;14;12.6;0.9
+Heshmati et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.58;10;plate;salt water;1;0;1;0;1;50;7;1;0;20160;840;2.925;45;45;45;0;814.5;48.515;0;14;13.1;0.936
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;0;0;20;20;20;0;0;4.322;0;37.4;37.4;1
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;20;20;20;0;317.3;4.322;0;37.4;38.6;1.032
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;20;20;20;0;331.2;4.322;0;37.4;36.5;0.976
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;20;20;20;0;339.3;4.322;0;37.4;34.2;0.914
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;20;20;20;0;345.1;4.322;0;37.4;33.9;0.906
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;20;20;20;0;353.2;4.322;0;37.4;33.3;0.89
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;17280;720;2.858;20;20;20;0;358.9;4.322;0;37.4;33.6;0.898
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;0;0;40;40;40;0;0;30.85;0;37.4;37.4;1
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;40;40;40;0;634.7;30.85;0;37.4;36.9;0.987
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;40;40;40;0;662.4;30.85;0;37.4;35.3;0.944
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;40;40;40;0;678.6;30.85;0;37.4;33.7;0.902
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;40;40;40;0;690.1;30.85;0;37.4;33.2;0.887
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;40;40;40;0;706.3;30.85;0;37.4;31.9;0.853
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;17280;720;2.858;40;40;40;0;717.8;30.85;0;37.4;31.2;0.834
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;0;0;60;60;60;0;0;173.906;0;37.4;37.4;1
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;60;60;60;0;952;173.906;0;37.4;35.5;0.949
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;60;60;60;0;993.6;173.906;0;37.4;34.6;0.925
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;60;60;60;0;1017.9;173.906;0;37.4;33.8;0.905
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;60;60;60;0;1035.2;173.906;0;37.4;31.1;0.83
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;60;60;60;0;1059.5;173.906;0;37.4;31.2;0.833
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;17280;720;2.858;60;60;60;0;1076.8;173.906;0;37.4;30.5;0.816
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;0;1;0;0;7;1;0;2160;0;0;40;40;40;0;0;30.85;0;37.4;38.5;1
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;0;1;0;0;7;1;0;2160;90;1.959;40;40;40;0;634.7;30.85;0;37.4;38.5;1.029
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;0;1;0;0;7;1;0;4320;180;2.258;40;40;40;0;662.4;30.85;0;37.4;35.8;0.957
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;0;1;0;0;7;1;0;6480;270;2.433;40;40;40;0;678.6;30.85;0;37.4;34.9;0.933
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;0;1;0;0;7;1;0;8640;360;2.558;40;40;40;0;690.1;30.85;0;37.4;35;0.936
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;0;1;0;0;7;1;0;12960;540;2.733;40;40;40;0;706.3;30.85;0;37.4;35;0.936
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;0;1;0;0;7;1;0;17280;720;2.858;40;40;40;0;717.8;30.85;0;37.4;31.5;0.842
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;0;0;20;20;20;0;0;4.322;0;37.4;37.4;1
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;20;20;20;0;317.3;4.322;0;37.4;39.5;1.056
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;20;20;20;0;331.2;4.322;0;37.4;37.4;0.999
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;20;20;20;0;339.3;4.322;0;37.4;36.4;0.974
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;20;20;20;0;345.1;4.322;0;37.4;35.7;0.955
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;20;20;20;0;353.2;4.322;0;37.4;33.5;0.895
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;17280;720;2.858;20;20;20;0;358.9;4.322;0;37.4;34.3;0.917
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;0;0;40;40;40;0;0;30.85;0;37.4;37.4;1
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;40;40;40;0;634.7;30.85;0;37.4;37.1;0.991
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;40;40;40;0;662.4;30.85;0;37.4;35.7;0.954
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;40;40;40;0;678.6;30.85;0;37.4;35.9;0.96
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;40;40;40;0;690.1;30.85;0;37.4;33.1;0.885
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;40;40;40;0;706.3;30.85;0;37.4;32.6;0.87
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;17280;720;2.858;40;40;40;0;717.8;30.85;0;37.4;31;0.83
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;0;0;60;60;60;0;0;173.906;0;37.4;37.4;1
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;60;60;60;0;952;173.906;0;37.4;35.5;0.949
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;60;60;60;0;993.6;173.906;0;37.4;34.6;0.925
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;60;60;60;0;1017.9;173.906;0;37.4;33.8;0.905
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;60;60;60;0;1035.2;173.906;0;37.4;31.1;0.83
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;60;60;60;0;1059.5;173.906;0;37.4;31.2;0.833
+Sousa et al. (2021);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;17280;720;2.858;60;60;60;0;1076.8;173.906;0;37.4;30.5;0.816
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;0;0;20;20;20;0;0;4.322;0;39.2;39.2;1
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;20;20;20;0;317.3;4.322;0;39.2;35.3;0.901
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;20;20;20;0;331.2;4.322;0;39.2;35.1;0.895
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;20;20;20;0;339.3;4.322;0;39.2;34.3;0.875
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;20;20;20;0;345.1;4.322;0;39.2;33;0.842
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;20;20;20;0;353.2;4.322;0;39.2;34.9;0.89
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;17280;720;2.858;20;20;20;0;358.9;4.322;0;39.2;38.7;0.987
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;0;0;40;40;40;0;0;30.85;0;39.2;39.2;1
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;40;40;40;0;634.7;30.85;0;39.2;35.5;0.906
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;40;40;40;0;662.4;30.85;0;39.2;34.2;0.873
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;40;40;40;0;678.6;30.85;0;39.2;33.3;0.85
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;40;40;40;0;690.1;30.85;0;39.2;32.1;0.819
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;40;40;40;0;706.3;30.85;0;39.2;36.4;0.928
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;17280;720;2.858;40;40;40;0;717.8;30.85;0;39.2;34.6;0.882
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;60;60;60;0;952;173.906;0;39.2;39.2;1
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;60;60;60;0;952;173.906;0;39.2;35.5;0.904
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;60;60;60;0;993.6;173.906;0;39.2;33.8;0.861
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;60;60;60;0;1017.9;173.906;0;39.2;32.6;0.832
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;60;60;60;0;1035.2;173.906;0;39.2;33.4;0.853
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;60;60;60;0;1059.5;173.906;0;39.2;36.5;0.931
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;demineralised water;1;0;1;0;0;0;7;1;0;17280;720;2.858;60;60;60;0;1076.8;173.906;0;39.2;33.6;0.858
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;0;0;20;20;20;0;0;4.322;0;39.2;39.2;1
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;20;20;20;0;317.3;4.322;0;39.2;34.7;0.886
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;20;20;20;0;331.2;4.322;0;39.2;34.4;0.878
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;20;20;20;0;339.3;4.322;0;39.2;33.1;0.845
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;20;20;20;0;345.1;4.322;0;39.2;32.4;0.827
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;20;20;20;0;353.2;4.322;0;39.2;35.4;0.903
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;17280;720;2.858;20;20;20;0;358.9;4.322;0;39.2;38.2;0.973
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;0;0;40;40;40;0;0;30.85;0;39.2;39.2;1
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;40;40;40;0;634.7;30.85;0;39.2;35.1;0.894
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;40;40;40;0;662.4;30.85;0;39.2;33.1;0.844
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;40;40;40;0;678.6;30.85;0;39.2;33.6;0.857
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;40;40;40;0;690.1;30.85;0;39.2;33;0.842
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;40;40;40;0;706.3;30.85;0;39.2;33;0.843
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;17280;720;2.858;40;40;40;0;717.8;30.85;0;39.2;32.5;0.829
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;0;0;60;60;60;0;0;173.906;0;39.2;39.2;1
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;60;60;60;0;952;173.906;0;39.2;36.5;0.93
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;60;60;60;0;993.6;173.906;0;39.2;33.1;0.844
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;60;60;60;0;1017.9;173.906;0;39.2;32.7;0.833
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;60;60;60;0;1035.2;173.906;0;39.2;32.1;0.818
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;60;60;60;0;1059.5;173.906;0;39.2;32.6;0.832
+Sousa et al. (2021);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.51;5;plate;salt water;1;0;1;0;1;35;7;1;0;17280;720;2.858;60;60;60;0;1076.8;173.906;0;39.2;33.4;0.851
+Sugiman et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Hand lay-up;0;1;0;0;0.4;3.2;plate;distilled water;1;0;1;0;1;35;7;1;0;168;0;0;50;50;50;0;0;75.233;0;12.4;12.4;1
+Sugiman et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Hand lay-up;0;1;0;0;0.4;3.2;plate;distilled water;1;0;1;0;1;35;7;1;0;168;7;0.903;50;50;50;0;665.6;75.233;0;12.4;11.6;0.931
+Sugiman et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Hand lay-up;0;1;0;0;0.4;3.2;plate;distilled water;1;0;1;0;1;35;7;1;0;360;15;1.204;50;50;50;0;703.7;75.233;0;12.4;9.4;0.756
+Sugiman et al. (2017);Polyester;1;0;0;0;0;Glass;1;0;0;Hand lay-up;0;1;0;0;0.4;3.2;plate;distilled water;1;0;1;0;1;35;7;1;0;720;30;1.491;50;50;50;0;738.4;75.233;0;12.4;8.3;0.672
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;35;35;35;0;0;19.331;0;24.9;24.9;1
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;672;28;1.462;35;35;35;0;514.5;19.331;0;24.9;20.1;0.808
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;1644;68.5;1.842;35;35;35;0;545.8;19.331;0;24.9;23;0.923
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;2016;84;1.929;35;35;35;0;552.9;19.331;0;24.9;22.5;0.906
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;2688;112;2.053;35;35;35;0;563;19.331;0;24.9;22;0.886
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;3360;140;2.149;35;35;35;0;570.8;19.331;0;24.9;25.3;1.016
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;4032;168;2.228;35;35;35;0;577.2;19.331;0;24.9;21.8;0.878
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;55;55;55;0;0;115.115;0;24.9;24.9;1
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;672;28;1.462;55;55;55;0;808.4;115.115;0;24.9;20.5;0.824
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;1644;68.5;1.842;55;55;55;0;857.6;115.115;0;24.9;23.6;0.947
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;2016;84;1.929;55;55;55;0;868.9;115.115;0;24.9;21.9;0.881
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;2688;112;2.053;55;55;55;0;884.7;115.115;0;24.9;23.2;0.931
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;3360;140;2.149;55;55;55;0;897;115.115;0;24.9;22.2;0.891
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;4032;168;2.228;55;55;55;0;907;115.115;0;24.9;22.2;0.891
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;70;70;70;0;0;382.835;0;24.9;24.9;1
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;672;28;1.462;70;70;70;0;1028.9;382.835;0;24.9;22.9;0.922
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;1644;68.5;1.842;70;70;70;0;1091.6;382.835;0;24.9;23.3;0.937
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;2016;84;1.929;70;70;70;0;1105.8;382.835;0;24.9;18.9;0.76
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;2688;112;2.053;70;70;70;0;1126;382.835;0;24.9;23.5;0.943
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;3360;140;2.149;70;70;70;0;1141.6;382.835;0;24.9;21.2;0.85
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;demineralised water;1;0;1;0;0;0;7;1;0;4032;168;2.228;70;70;70;0;1154.3;382.835;0;24.9;24.1;0.969
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;0;0;0;35;35;35;0;0;19.331;0;24.9;24.9;1
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;672;28;1.462;35;35;35;0;514.5;19.331;0;24.9;22.8;0.915
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;1644;68.5;1.842;35;35;35;0;545.8;19.331;0;24.9;24;0.963
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;2016;84;1.929;35;35;35;0;552.9;19.331;0;24.9;21.8;0.876
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;2688;112;2.053;35;35;35;0;563;19.331;0;24.9;21.7;0.871
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;3360;140;2.149;35;35;35;0;570.8;19.331;0;24.9;22.4;0.9
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;4032;168;2.228;35;35;35;0;577.2;19.331;0;24.9;21.2;0.854
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;0;0;0;55;55;55;0;0;115.115;0;24.9;24.9;1
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;672;28;1.462;55;55;55;0;808.4;115.115;0;24.9;19.5;0.782
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;1644;68.5;1.842;55;55;55;0;857.6;115.115;0;24.9;24.9;1
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;2016;84;1.929;55;55;55;0;868.9;115.115;0;24.9;22.9;0.919
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;2688;112;2.053;55;55;55;0;884.7;115.115;0;24.9;24;0.963
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;3360;140;2.149;55;55;55;0;897;115.115;0;24.9;22.7;0.91
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;4032;168;2.228;55;55;55;0;907;115.115;0;24.9;21.7;0.87
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;0;0;0;70;70;70;0;0;382.835;0;24.9;24.9;1
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;672;28;1.462;70;70;70;0;1028.9;382.835;0;24.9;24.4;0.98
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;1644;68.5;1.842;70;70;70;0;1091.6;382.835;0;24.9;23.3;0.938
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;2016;84;1.929;70;70;70;0;1105.8;382.835;0;24.9;24;0.966
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;2688;112;2.053;70;70;70;0;1126;382.835;0;24.9;23.2;0.931
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;3360;140;2.149;70;70;70;0;1141.6;382.835;0;24.9;25.9;1.04
+Vieira (2023);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.48;6.3;plate;hygrothermal chamber;1;0;0;1;0;0;7;0.95;0;4032;168;2.228;70;70;70;0;1154.3;382.835;0;24.9;21.2;0.85
+Yang et al. (2018);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;20;20;20;0;0;4.322;0;22.8;22.8;1
+Yang et al. (2018);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;360;15;1.204;20;20;20;0;281.5;4.322;0;22.8;22.1;0.972
+Yang et al. (2018);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;720;30;1.491;20;20;20;0;295.4;4.322;0;22.8;21.8;0.958
+Yang et al. (2018);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;1440;60;1.785;20;20;20;0;309.2;4.322;0;22.8;21.5;0.945
+Yang et al. (2018);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;20;20;20;0;317.3;4.322;0;22.8;20.6;0.907
+Yang et al. (2018);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;20;20;20;0;331.2;4.322;0;22.8;18.8;0.826
+Yang et al. (2018);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;0;0;0;20;20;20;0;0;4.322;0;22.8;22.8;1
+Yang et al. (2018);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;360;15;1.204;20;20;20;0;281.5;4.322;0;22.8;23.1;1.014
+Yang et al. (2018);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;720;30;1.491;20;20;20;0;295.4;4.322;0;22.8;23.5;1.034
+Yang et al. (2018);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;1440;60;1.785;20;20;20;0;309.2;4.322;0;22.8;24.3;1.068
+Yang et al. (2018);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;20;20;20;0;317.3;4.322;0;22.8;24.6;1.081
+Yang et al. (2018);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;20;20;20;0;331.2;4.322;0;22.8;20.2;0.89
+Guermazi et al. (2016);Epoxy;0;0;0;0;1;Glass;1;0;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;0;0;0;24;24;24;0;0;6.541;0;15.4;15.4;1
+Guermazi et al. (2016);Epoxy;0;0;0;0;1;Glass;1;0;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;540;22.5;1.371;24;24;24;0;347.5;6.541;0;15.4;14.5;0.94
+Guermazi et al. (2016);Epoxy;0;0;0;0;1;Glass;1;0;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1080;45;1.663;24;24;24;0;364.2;6.541;0;15.4;13.6;0.88
+Guermazi et al. (2016);Epoxy;0;0;0;0;1;Glass;1;0;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1620;67.5;1.836;24;24;24;0;373.9;6.541;0;15.4;13.1;0.85
+Guermazi et al. (2016);Epoxy;0;0;0;0;1;Glass;1;0;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;2160;90;1.959;24;24;24;0;380.8;6.541;0;15.4;12.6;0.82
+Guermazi et al. (2016);Epoxy;0;0;0;0;1;Glass;1;0;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;0;0;0;70;70;70;0;0;382.835;0;15.4;15.4;1
+Guermazi et al. (2016);Epoxy;0;0;0;0;1;Glass;1;0;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;540;22.5;1.371;70;70;70;0;1013.6;382.835;0;15.4;14.2;0.925
+Guermazi et al. (2016);Epoxy;0;0;0;0;1;Glass;1;0;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1080;45;1.663;70;70;70;0;1062.1;382.835;0;15.4;13.4;0.87
+Guermazi et al. (2016);Epoxy;0;0;0;0;1;Glass;1;0;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1620;67.5;1.836;70;70;70;0;1090.5;382.835;0;15.4;12.4;0.805
+Guermazi et al. (2016);Epoxy;0;0;0;0;1;Glass;1;0;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;2160;90;1.959;70;70;70;0;1110.7;382.835;0;15.4;11.4;0.74
+Guermazi et al. (2016);Epoxy;0;0;0;0;1;Glass;1;0;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;0;0;0;90;90;90;0;0;1628.498;0;15.4;15.4;1
+Guermazi et al. (2016);Epoxy;0;0;0;0;1;Glass;1;0;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;540;22.5;1.371;90;90;90;0;1303.2;1628.498;0;15.4;14;0.91
+Guermazi et al. (2016);Epoxy;0;0;0;0;1;Glass;1;0;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1080;45;1.663;90;90;90;0;1365.6;1628.498;0;15.4;13;0.845
+Guermazi et al. (2016);Epoxy;0;0;0;0;1;Glass;1;0;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;1620;67.5;1.836;90;90;90;0;1402.1;1628.498;0;15.4;12;0.78
+Guermazi et al. (2016);Epoxy;0;0;0;0;1;Glass;1;0;0;Hand lay-up;0;1;0;0;0.31;4;dogbone;distilled water;1;0;1;0;0;0;7;1;0;2160;90;1.959;90;90;90;0;1428;1628.498;0;15.4;11.1;0.72
+Stazi et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.47;5;dogbone;hygrothermal chamber;1;0;0;1;0;0;7;1;0;0;0;0;40;40;40;0;0;30.85;0;32.7;32.7;1
+Stazi et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.47;5;dogbone;hygrothermal chamber;1;0;0;1;0;0;7;1;0;4320;180;2.258;40;40;40;0;662.4;30.85;0;32.7;30.8;0.943
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;0;0;0;23;23;23;0;0;5.903;0;29.5;29.5;1
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;336;14;1.176;23;23;23;0;322.1;5.903;0;29.5;28.7;0.973
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;792;33;1.531;23;23;23;0;341.9;5.903;0;29.5;29.6;1.003
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;2328;97;1.991;23;23;23;0;366.7;5.903;0;29.5;27.8;0.942
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;3600;150;2.179;23;23;23;0;376.7;5.903;0;29.5;28.3;0.959
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;5376;224;2.352;23;23;23;0;385.9;5.903;0;29.5;30.2;1.024
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;0;0;0;40;40;40;0;0;30.85;0;29.5;29.5;1
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;336;14;1.176;40;40;40;0;560.2;30.85;0;29.5;29.9;1.014
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;792;33;1.531;40;40;40;0;594.5;30.85;0;29.5;28.3;0.959
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;2328;97;1.991;40;40;40;0;637.7;30.85;0;29.5;27.3;0.925
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;3600;150;2.179;40;40;40;0;655.1;30.85;0;29.5;26.8;0.908
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;5376;224;2.352;40;40;40;0;671.1;30.85;0;29.5;26.4;0.895
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;0;0;0;55;55;55;0;0;115.115;0;29.5;29.5;1
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;336;14;1.176;55;55;55;0;770.3;115.115;0;29.5;28.8;0.976
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;792;33;1.531;55;55;55;0;817.5;115.115;0;29.5;29.1;0.986
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;2328;97;1.991;55;55;55;0;876.8;115.115;0;29.5;26.6;0.902
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;3600;150;2.179;55;55;55;0;900.8;115.115;0;29.5;27.5;0.932
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;I-shaped deck;salt water;1;0;1;0;1;30;7;1;0;5376;224;2.352;55;55;55;0;922.8;115.115;0;29.5;27.5;0.932
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;0;0;0;23;23;23;0;0;5.903;0;18.9;18.9;1
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;336;14;1.176;23;23;23;0;322.1;5.903;0;18.9;17.6;0.931
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;792;33;1.531;23;23;23;0;341.9;5.903;0;18.9;17.7;0.937
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;2328;97;1.991;23;23;23;0;366.7;5.903;0;18.9;17;0.899
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;3600;150;2.179;23;23;23;0;376.7;5.903;0;18.9;18;0.952
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;5376;224;2.352;23;23;23;0;385.9;5.903;0;18.9;17.4;0.921
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;0;0;0;40;40;40;0;0;30.85;0;18.9;18.9;1
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;336;14;1.176;40;40;40;0;560.2;30.85;0;18.9;17.8;0.942
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;792;33;1.531;40;40;40;0;594.5;30.85;0;18.9;17.3;0.915
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;2328;97;1.991;40;40;40;0;637.7;30.85;0;18.9;16.8;0.889
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;3600;150;2.179;40;40;40;0;655.1;30.85;0;18.9;17.7;0.937
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;5376;224;2.352;40;40;40;0;671.1;30.85;0;18.9;17;0.899
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;0;0;0;55;55;55;0;0;115.115;0;18.9;18.9;1
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;336;14;1.176;55;55;55;0;770.3;115.115;0;18.9;17;0.899
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;792;33;1.531;55;55;55;0;817.5;115.115;0;18.9;17.4;0.921
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;2328;97;1.991;55;55;55;0;876.8;115.115;0;18.9;16.9;0.894
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;3600;150;2.179;55;55;55;0;900.8;115.115;0;18.9;18.4;0.974
+Fam et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.32;4.2;M profile;salt water;1;0;1;0;1;30;7;1;0;5376;224;2.352;55;55;55;0;922.8;115.115;0;18.9;17.4;0.921
+Carra and Carvelli (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;0;0;0;40;40;40;0;0;30.85;0;31.1;31.1;1
+Carra and Carvelli (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;672;28;1.462;40;40;40;0;588;30.85;0;31.1;31.5;1.014
+Carra and Carvelli (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;1344;56;1.756;40;40;40;0;615.7;30.85;0;31.1;30.7;0.986
+Carra and Carvelli (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;1344;56;1.756;40;40;40;0;615.7;30.85;0;31.1;30.9;0.994
+Carra and Carvelli (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;2688;112;2.053;40;40;40;0;643.4;30.85;0;31.1;30.5;0.98
+Carra and Carvelli (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;5472;228;2.36;40;40;40;0;671.8;30.85;0;31.1;30.7;0.986
+Carra and Carvelli (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;4032;168;2.228;40;40;40;0;659.6;30.85;0;31.1;30.8;0.991
+Carra and Carvelli (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;in situ;0;1;0;1;0;0;7;0.9;0;8064;336;2.528;40;40;40;0;687.4;30.85;0;31.1;31.5;1.014
+Carra and Carvelli (2014);Polyester;0;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;0;0;0;40;40;40;0;0;30.85;0;31.1;31.1;1
+Carra and Carvelli (2014);Polyester;0;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;672;28;1.462;40;40;40;0;588;30.85;0;31.1;31.3;1.005
+Carra and Carvelli (2014);Polyester;0;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;1344;56;1.756;40;40;40;0;615.7;30.85;0;31.1;31.3;1.005
+Carra and Carvelli (2014);Polyester;0;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;1344;56;1.756;40;40;40;0;615.7;30.85;0;31.1;32.3;1.038
+Carra and Carvelli (2014);Polyester;0;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;2688;112;2.053;40;40;40;0;643.4;30.85;0;31.1;29.8;0.958
+Carra and Carvelli (2014);Polyester;0;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;5472;228;2.36;40;40;40;0;671.8;30.85;0;31.1;30.4;0.978
+Carra and Carvelli (2014);Polyester;0;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;4032;168;2.228;40;40;40;0;659.6;30.85;0;31.1;34.2;1.1
+Carra and Carvelli (2014);Polyester;0;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;in situ;0;1;0;1;0;0;7;0.9;0;8064;336;2.528;40;40;40;0;687.4;30.85;0;31.1;31.2;1.002
+Carra and Carvelli (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;0;0;0;40;40;40;0;0;30.85;0;31.1;31.1;1
+Carra and Carvelli (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;672;28;1.462;40;40;40;0;588;30.85;0;31.1;30.5;0.979
+Carra and Carvelli (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;1344;56;1.756;40;40;40;0;615.7;30.85;0;31.1;30.3;0.973
+Carra and Carvelli (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;1344;56;1.756;40;40;40;0;615.7;30.85;0;31.1;29.4;0.944
+Carra and Carvelli (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;2688;112;2.053;40;40;40;0;643.4;30.85;0;31.1;29.6;0.953
+Carra and Carvelli (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;5472;228;2.36;40;40;40;0;671.8;30.85;0;31.1;28.7;0.924
+Carra and Carvelli (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.9;0;4032;168;2.228;40;40;40;0;659.6;30.85;0;31.1;30.1;0.968
+Carra and Carvelli (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.9;plate;in situ;0;1;0;1;0;0;7;0.9;0;8064;336;2.528;40;40;40;0;687.4;30.85;0;31.1;30.2;0.971
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;20;20;20;0;0;4.322;0;37.6;37.6;1
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;20;20;20;0;317.3;4.322;0;37.6;31;0.824
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;20;20;20;0;331.2;4.322;0;37.6;36.5;0.971
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;20;20;20;0;339.3;4.322;0;37.6;35;0.931
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;20;20;20;0;345.1;4.322;0;37.6;32;0.851
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;40;40;40;0;0;30.85;0;37.6;37.6;1
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;40;40;40;0;634.7;30.85;0;37.6;34.8;0.926
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;40;40;40;0;662.4;30.85;0;37.6;33;0.878
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;40;40;40;0;678.6;30.85;0;37.6;30.5;0.811
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;40;40;40;0;690.1;30.85;0;37.6;33.5;0.891
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;60;60;60;0;0;173.906;0;37.6;37.6;1
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;60;60;60;0;952;173.906;0;37.6;36;0.957
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;60;60;60;0;993.6;173.906;0;37.6;33.5;0.891
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;6480;270;2.433;60;60;60;0;1017.9;173.906;0;37.6;33;0.878
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;60;60;60;0;1035.2;173.906;0;37.6;30.5;0.811
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;0;0;0;20;20;20;0;0;4.322;0;37.6;37.6;1
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;20;20;20;0;317.3;4.322;0;37.6;40;1.064
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;20;20;20;0;331.2;4.322;0;37.6;38;1.011
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;20;20;20;0;339.3;4.322;0;37.6;34;0.904
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;20;20;20;0;345.1;4.322;0;37.6;28.5;0.758
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;0;0;0;40;40;40;0;0;30.85;0;37.6;37.6;1
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;40;40;40;0;634.7;30.85;0;37.6;41;1.09
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;40;40;40;0;662.4;30.85;0;37.6;42;1.117
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;40;40;40;0;678.6;30.85;0;37.6;33;0.878
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;40;40;40;0;690.1;30.85;0;37.6;31;0.824
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;0;0;0;60;60;60;0;0;173.906;0;37.6;37.6;1
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;60;60;60;0;952;173.906;0;37.6;33;0.878
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;60;60;60;0;993.6;173.906;0;37.6;41;1.09
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;6480;270;2.433;60;60;60;0;1017.9;173.906;0;37.6;30.5;0.811
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;60;60;60;0;1035.2;173.906;0;37.6;31;0.824
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;hygrothermal chamber;1;0;0;1;0;0;7;1;0;0;0;0;40;40;40;0;0;30.85;0;37.6;37.6;1
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;hygrothermal chamber;1;0;0;1;0;0;7;1;0;2160;90;1.959;40;40;40;0;634.7;30.85;0;37.6;34.5;0.918
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;hygrothermal chamber;1;0;0;1;0;0;7;1;0;4320;180;2.258;40;40;40;0;662.4;30.85;0;37.6;31;0.824
+Correia et al. (2010);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;hygrothermal chamber;1;0;0;1;0;0;7;1;0;6480;270;2.433;40;40;40;0;678.6;30.85;0;37.6;29.5;0.785
+Cabral-Fonseca et al. (2012);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;20;20;20;0;0;4.322;0;37.6;37.6;1
+Cabral-Fonseca et al. (2012);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;20;20;20;0;353.2;4.322;0;37.6;29.7;0.79
+Cabral-Fonseca et al. (2012);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;40;40;40;0;0;30.85;0;37.6;37.6;1
+Cabral-Fonseca et al. (2012);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;40;40;40;0;706.3;30.85;0;37.6;33.5;0.89
+Cabral-Fonseca et al. (2012);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;60;60;60;0;0;173.906;0;37.6;37.6;1
+Cabral-Fonseca et al. (2012);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;demineralised water;1;0;1;0;0;0;7;1;0;12960;540;2.733;60;60;60;0;1059.5;173.906;0;37.6;29.7;0.79
+Cabral-Fonseca et al. (2012);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;0;0;0;20;20;20;0;0;4.322;0;37.6;37.6;1
+Cabral-Fonseca et al. (2012);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;20;20;20;0;353.2;4.322;0;37.6;31.2;0.83
+Cabral-Fonseca et al. (2012);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;0;0;0;40;40;40;0;0;30.85;0;37.6;37.6;1
+Cabral-Fonseca et al. (2012);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;40;40;40;0;706.3;30.85;0;37.6;30.5;0.81
+Cabral-Fonseca et al. (2012);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;0;0;0;60;60;60;0;0;173.906;0;37.6;37.6;1
+Cabral-Fonseca et al. (2012);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;5;square tube;salt water;1;0;1;0;1;35;7;1;0;12960;540;2.733;60;60;60;0;1059.5;173.906;0;37.6;30.5;0.81
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;0;0;0;23;23;23;0;0;5.903;0;9.9;9.9;1
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;360;15;1.204;23;23;23;0;323.7;5.903;0;9.9;10.2;1.035
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;2160;90;1.959;23;23;23;0;364.9;5.903;0;9.9;9.2;0.933
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;4320;180;2.258;23;23;23;0;380.9;5.903;0;9.9;9;0.914
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;demineralised water;1;0;1;0;0;0;7;1;0;8640;360;2.558;23;23;23;0;396.8;5.903;0;9.9;6.3;0.635
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;0;0;0;23;23;23;0;0;5.903;0;9.9;9.9;1
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;360;15;1.204;23;23;23;0;323.7;5.903;0;9.9;7.6;0.769
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;2160;90;1.959;23;23;23;0;364.9;5.903;0;9.9;7.7;0.779
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;4320;180;2.258;23;23;23;0;380.9;5.903;0;9.9;7.3;0.744
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt water;1;0;1;0;1;35;7;1;0;8640;360;2.558;23;23;23;0;396.8;5.903;0;9.9;6.5;0.656
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt fog;0;1;0;1;1;5;7;0.94;0;0;0;0;35;35;35;0;0;19.331;0;9.9;9.9;1
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt fog;0;1;0;1;1;5;7;0.94;0;360;15;1.204;35;35;35;0;492.6;19.331;0;9.9;9.1;0.923
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt fog;0;1;0;1;1;5;7;0.94;0;2160;90;1.959;35;35;35;0;555.3;19.331;0;9.9;8.8;0.892
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt fog;0;1;0;1;1;5;7;0.94;0;4320;180;2.258;35;35;35;0;579.6;19.331;0;9.9;6.8;0.688
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;salt fog;0;1;0;1;1;5;7;0.94;0;8640;360;2.558;35;35;35;0;603.8;19.331;0;9.9;5.9;0.598
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.94;0;0;0;0;40;40;40;0;0;30.85;0;9.9;9.9;1
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.94;0;360;15;1.204;40;40;40;0;563;30.85;0;9.9;8.7;0.881
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.94;0;2160;90;1.959;40;40;40;0;634.7;30.85;0;9.9;7.2;0.726
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.94;0;4320;180;2.258;40;40;40;0;662.4;30.85;0;9.9;6.4;0.653
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.94;0;8640;360;2.558;40;40;40;0;690.1;30.85;0;9.9;5.2;0.53
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.94;0.4;0;0;0;40;40;40;0;0;30.85;0;9.9;9.9;1
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.94;0.4;360;15;1.204;40;40;40;0;563;30.85;0;9.9;8.5;0.862
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.94;0.4;2160;90;1.959;40;40;40;0;634.7;30.85;0;9.9;6.9;0.704
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.94;0.4;4320;180;2.258;40;40;40;0;662.4;30.85;0;9.9;6.1;0.614
+Yang et al. (2022);Polyester;1;1;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2.7;plate;hygrothermal chamber;0;1;0;1;0;0;7;0.94;0.4;8640;360;2.558;40;40;40;0;690.1;30.85;0;9.9;5;0.505
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;1000;42;1.63;60;60;60;0;905.8;173.906;0;21.6;20.4;0.942
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;1000;42;1.63;60;60;60;0;905.8;173.906;0;21.6;20.4;0.942
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.1;0;0;0;60;60;60;0;0;173.906;0;21.6;21.6;1
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.2;1000;42;1.63;60;60;60;0;905.8;173.906;0;21.6;21.8;1.01
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.3;1000;42;1.63;60;60;60;0;905.8;173.906;0;21.6;19.6;0.906
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;0;0;0;60;60;60;0;0;173.906;0;21.6;21.6;1
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;2000;83;1.926;60;60;60;0;947.4;173.906;0;21.6;19.5;0.903
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.1;2000;83;1.926;60;60;60;0;947.4;173.906;0;21.6;20.3;0.94
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.2;2000;83;1.926;60;60;60;0;947.4;173.906;0;21.6;20.2;0.936
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.3;2000;83;1.926;60;60;60;0;947.4;173.906;0;21.6;19.9;0.919
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;0;0;0;60;60;60;0;0;173.906;0;21.6;21.6;1
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;1000;42;1.63;60;60;60;0;905.8;173.906;0;21.6;20.6;0.954
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.1;1000;42;1.63;60;60;60;0;905.8;173.906;0;21.6;20.7;0.958
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.2;1000;42;1.63;60;60;60;0;905.8;173.906;0;21.6;18.6;0.863
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.3;1000;42;1.63;60;60;60;0;905.8;173.906;0;21.6;20.1;0.931
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;2000;83;1.926;60;60;60;0;947.4;173.906;0;21.6;20.4;0.943
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;2000;83;1.926;60;60;60;0;947.4;173.906;0;21.6;20.4;0.943
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.1;2000;83;1.926;60;60;60;0;947.4;173.906;0;21.6;20.3;0.939
+Miller (2014);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.2;2000;83;1.926;60;60;60;0;947.4;173.906;0;21.6;20.9;0.967
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;0;0;0;60;60;60;0;0;173.906;0;21.6;21.6;1
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;1000;42;1.63;60;60;60;0;905.8;173.906;0;21.6;20.8;0.964
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.1;1000;42;1.63;60;60;60;0;905.8;173.906;0;21.6;20.1;0.929
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.2;1000;42;1.63;60;60;60;0;905.8;173.906;0;21.6;21.5;0.997
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.3;1000;42;1.63;60;60;60;0;905.8;173.906;0;21.6;22;1.02
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;0;0;0;60;60;60;0;0;173.906;0;21.6;21.6;1
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0;2000;83;1.926;60;60;60;0;947.4;173.906;0;21.6;19.4;0.896
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.1;2000;83;1.926;60;60;60;0;947.4;173.906;0;21.6;18.3;0.847
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.2;2000;83;1.926;60;60;60;0;947.4;173.906;0;21.6;20.1;0.931
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;distilled water;1;0;1;0;0;0;7;1;0.3;2000;83;1.926;60;60;60;0;947.4;173.906;0;21.6;17.4;0.803
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;0;0;0;60;60;60;0;0;173.906;0;21.6;21.6;1
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;1000;42;1.63;60;60;60;0;905.8;173.906;0;21.6;20.9;0.965
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.1;1000;42;1.63;60;60;60;0;905.8;173.906;0;21.6;20.6;0.953
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.2;1000;42;1.63;60;60;60;0;905.8;173.906;0;21.6;20.2;0.937
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.3;1000;42;1.63;60;60;60;0;905.8;173.906;0;21.6;20.5;0.948
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;0;0;0;60;60;60;0;0;173.906;0;21.6;21.6;1
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;2000;83;1.926;60;60;60;0;947.4;173.906;0;21.6;18.8;0.87
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0;2000;83;1.926;60;60;60;0;947.4;173.906;0;21.6;18.8;0.87
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.1;2000;83;1.926;60;60;60;0;947.4;173.906;0;21.6;19;0.881
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.2;2000;83;1.926;60;60;60;0;947.4;173.906;0;21.6;21.2;0.979
+Miller (2014);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;6.4;plate;salt water;1;0;1;0;1;35;7;1;0.3;2000;83;1.926;60;60;60;0;947.4;173.906;0;21.6;18.4;0.85
+Nishizaki et al. (2015);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.43;3.2;plate;in situ;0;1;0;0;0;0;7;0.5;0;0;0;0;12.5;12.5;12.5;0;0;1.927;0;20.9;20.9;1
+Nishizaki et al. (2015);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.43;3.2;plate;in situ;0;1;0;0;0;0;7;0.5;0;8760;365;2.563;12.5;12.5;12.5;0;215.8;1.927;0;20.9;25;1.196
+Nishizaki et al. (2015);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.43;3.2;plate;in situ;0;1;0;0;0;0;7.5;0.5;0;87600;3650;3.562;12.5;12.5;12.5;0;244.6;1.927;0;20.9;26.9;1.287
+Nishizaki et al. (2015);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;3.2;plate;in situ;0;1;0;0;0;0;7.5;0.5;0;0;0;0;12.5;12.5;12.5;0;0;1.927;0;19.2;19.2;1
+Nishizaki et al. (2015);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;3.2;plate;in situ;0;1;0;0;0;0;7.5;0.5;0;8760;365;2.563;12.5;12.5;12.5;0;215.8;1.927;0;19.2;20.5;1.068
+Nishizaki et al. (2015);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.39;3.2;plate;in situ;0;1;0;0;0;0;7.5;0.5;0;87600;3650;3.562;12.5;12.5;12.5;0;244.6;1.927;0;19.2;20.2;1.052
+Nishizaki et al. (2015);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.36;3.2;plate;in situ;0;1;0;0;0;0;7.5;0.5;0;0;0;0;12.5;12.5;12.5;0;0;1.927;0;17.9;17.9;1
+Nishizaki et al. (2015);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.36;3.2;plate;in situ;0;1;0;0;0;0;7.5;0.5;0;8760;365;2.563;12.5;12.5;12.5;0;215.8;1.927;0;17.9;19;1.061
+Nishizaki et al. (2015);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.36;3.2;plate;in situ;0;1;0;0;0;0;7.5;0.5;0;87600;3650;3.562;12.5;12.5;12.5;0;244.6;1.927;0;17.9;18.7;1.045
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;14;1;0;0;0;0;20;20;20;0;0;4.322;0;20.7;20.7;1
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;14;1;0;72;3;0.602;20;20;20;0;249.3;4.322;0;20.7;20.3;0.981
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;14;1;0;240;10;1.041;20;20;20;0;273.4;4.322;0;20.7;19.6;0.947
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;14;1;0;720;30;1.491;20;20;20;0;295.4;4.322;0;20.7;19;0.918
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;14;1;0;1440;60;1.785;20;20;20;0;309.2;4.322;0;20.7;18.9;0.914
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;12;1;0;0;0;0;20;20;20;0;0;4.322;0;20.7;20.7;1
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;12;1;0;72;3;0.602;20;20;20;0;249.3;4.322;0;20.7;20.5;0.988
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;12;1;0;240;10;1.041;20;20;20;0;273.4;4.322;0;20.7;19.9;0.961
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;12;1;0;720;30;1.491;20;20;20;0;295.4;4.322;0;20.7;19.6;0.945
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;alkaline solution;1;0;1;0;0;0;12;1;0;1440;60;1.785;20;20;20;0;309.2;4.322;0;20.7;19.5;0.943
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;tap water;1;0;1;0;0;0;7.5;1;0;0;0;0;20;20;20;0;0;4.322;0;20.7;20.7;1
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;tap water;1;0;1;0;0;0;7.5;1;0;72;3;0.602;20;20;20;0;249.3;4.322;0;20.7;20.7;0.997
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;tap water;1;0;1;0;0;0;7.5;1;0;240;10;1.041;20;20;20;0;273.4;4.322;0;20.7;20.3;0.978
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;tap water;1;0;1;0;0;0;7.5;1;0;720;30;1.491;20;20;20;0;295.4;4.322;0;20.7;19.9;0.961
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;tap water;1;0;1;0;0;0;7.5;1;0;1440;60;1.785;20;20;20;0;309.2;4.322;0;20.7;19.9;0.959
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;acid solution;1;0;1;0;0;0;2;1;0;0;0;0;20;20;20;0;0;4.322;0;20.7;20.7;1
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;acid solution;1;0;1;0;0;0;2;1;0;72;3;0.602;20;20;20;0;249.3;4.322;0;20.7;20.8;1.005
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;acid solution;1;0;1;0;0;0;2;1;0;240;10;1.041;20;20;20;0;273.4;4.322;0;20.7;21.2;1.021
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;acid solution;1;0;1;0;0;0;2;1;0;720;30;1.491;20;20;20;0;295.4;4.322;0;20.7;21.6;1.041
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;acid solution;1;0;1;0;0;0;2;1;0;1440;60;1.785;20;20;20;0;309.2;4.322;0;20.7;21.6;1.042
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;acid solution;1;0;1;0;0;0;1;1;0;0;0;0;20;20;20;0;0;4.322;0;20.7;20.7;1
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;acid solution;1;0;1;0;0;0;1;1;0;72;3;0.602;20;20;20;0;249.3;4.322;0;20.7;20.9;1.007
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;acid solution;1;0;1;0;0;0;1;1;0;240;10;1.041;20;20;20;0;273.4;4.322;0;20.7;21.4;1.033
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;acid solution;1;0;1;0;0;0;1;1;0;720;30;1.491;20;20;20;0;295.4;4.322;0;20.7;22.1;1.065
+Stamenović et al. (2011);Polyester;0;1;0;0;0;Glass;1;0;0;FW;0;0;1;0;0.36;3.5;plate;acid solution;1;0;1;0;0;0;1;1;0;1440;60;1.785;20;20;20;0;309.2;4.322;0;20.7;22.1;1.067
+Rosa et al. (2024);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.33;3.2;square tube;in situ;1;0;0;1;1;7;7.5;0.5;0;0;0;0;21;21;21;0;0;4.799;0;37.9;37.9;1
+Rosa et al. (2024);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.33;3.2;square tube;in situ;1;0;0;1;1;7;7.5;0.5;0;183960;7665;3.885;21;21;21;0;426.5;4.799;0;37.9;37.3;0.984
+Rosa et al. (2024);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.43;8;I-beam web;in situ;0;1;0;1;1;7;7.5;0.5;0;0;0;0;21;21;21;0;0;4.799;0;34.2;34.2;1
+Rosa et al. (2024);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.43;8;I-beam web;in situ;0;1;0;1;1;7;7.5;0.5;0;96360;4015;3.604;21;21;21;0;413;4.799;0;34.2;34.2;1
+Keller et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;8;I-beam flange;in situ;0;1;0;1;0;0;7.5;0.73;0.2;0;0;0;2;2;2;0;0;0.577;0;34.2;34.2;1
+Keller et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;8;I-beam flange;in situ;0;1;0;1;0;0;7.5;0.73;0.2;70080;2920;3.466;2;2;2;0;38.7;0.577;0;34.2;35.3;1.032
+Keller et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;8;I-beam flange;in situ;0;1;0;1;0;0;7.5;0.73;0.2;148920;6205;3.793;2;2;2;0;40.2;0.577;0;34.2;33.6;0.982
+Keller et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;8;I-beam web;in situ;0;1;0;1;0;0;7.5;0.73;0.2;0;0;0;2;2;2;0;0;0.577;0;22.8;22.8;1
+Keller et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;8;I-beam web;in situ;0;1;0;1;0;0;7.5;0.73;0.2;70080;2920;3.466;2;2;2;0;38.7;0.577;0;22.8;22.7;0.996
+Keller et al. (2016);Polyester;1;0;0;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.5;8;I-beam web;in situ;0;1;0;1;0;0;7.5;0.73;0.2;148920;6205;3.793;2;2;2;0;40.2;0.577;0;22.8;21.7;0.952
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.49;9.9;honeycomb deck;tap water;1;0;1;0;0;0;7.5;1;0;3000;0;0;23;23;23;0;0;5.903;0;22.4;22.4;1
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.49;9.9;honeycomb deck;tap water;1;0;1;0;0;0;7.5;1;0;3000;125;2.1;23;23;23;0;372.5;5.903;0;22.4;21.6;0.964
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.49;9.9;honeycomb deck;tap water;1;0;1;0;0;0;7.5;1;0;10000;417;2.621;23;23;23;0;400.2;5.903;0;22.4;21.9;0.978
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.49;9.9;honeycomb deck;salt water;1;0;1;0;0;0;7.5;1;0;1000;0;0;23;23;23;0;0;5.903;0;22.4;22.4;1
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.49;9.9;honeycomb deck;salt water;1;0;1;0;0;0;7.5;1;0;1000;42;1.63;23;23;23;0;347.2;5.903;0;22.4;22.8;1.018
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.49;9.9;honeycomb deck;salt water;1;0;1;0;0;0;7.5;1;0;3000;125;2.1;23;23;23;0;372.5;5.903;0;22.4;22;0.982
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.49;9.9;honeycomb deck;salt water;1;0;1;0;0;0;7.5;1;0;10000;417;2.621;23;23;23;0;400.2;5.903;0;22.4;22.5;1.004
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.49;9.9;honeycomb deck;in situ;0;1;0;1;0;0;7.5;0.75;0;0;0;0;21;30;25.5;9;0;7.618;0;22.4;22.4;1
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.49;9.9;honeycomb deck;in situ;0;1;0;1;0;0;7.5;0.75;0;8760;365;2.563;21;30;25.5;9;440.3;7.618;0;22.4;23;1.027
+Lopez-Anido et al. (2001);Hybrid;1;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.61;8;deck panel;tap water;1;0;1;0;0;0;7.5;1;0;3000;0;0;23;23;23;0;0;5.903;0;39.5;39.5;1
+Lopez-Anido et al. (2001);Hybrid;1;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.61;8;deck panel;tap water;1;0;1;0;0;0;7.5;1;0;3000;125;2.1;23;23;23;0;372.5;5.903;0;39.5;39.1;0.99
+Lopez-Anido et al. (2001);Hybrid;1;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.61;8;deck panel;tap water;1;0;1;0;0;0;7.5;1;0;10000;417;2.621;23;23;23;0;400.2;5.903;0;39.5;38.9;0.985
+Lopez-Anido et al. (2001);Hybrid;1;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.61;8;deck panel;salt water;1;0;1;0;0;0;7.5;1;0;3000;0;0;23;23;23;0;0;5.903;0;39.5;39.5;1
+Lopez-Anido et al. (2001);Hybrid;1;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.61;8;deck panel;salt water;1;0;1;0;0;0;7.5;1;0;3000;125;2.1;23;23;23;0;372.5;5.903;0;39.5;39.3;0.995
+Lopez-Anido et al. (2001);Hybrid;1;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.61;8;deck panel;salt water;1;0;1;0;0;0;7.5;1;0;10000;417;2.621;23;23;23;0;400.2;5.903;0;39.5;37.8;0.957
+Lopez-Anido et al. (2001);Hybrid;1;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.61;8;deck panel;alkaline solution;1;0;1;0;0;0;9.5;1;0;1000;0;0;23;23;23;0;0;5.903;0;39.5;39.5;1
+Lopez-Anido et al. (2001);Hybrid;1;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.61;8;deck panel;alkaline solution;1;0;1;0;0;0;9.5;1;0;1000;42;1.63;23;23;23;0;347.2;5.903;0;39.5;40.4;1.023
+Lopez-Anido et al. (2001);Hybrid;1;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.61;8;deck panel;alkaline solution;1;0;1;0;0;0;9.5;1;0;10000;417;2.621;23;23;23;0;400.2;5.903;0;39.5;38.1;0.965
+Lopez-Anido et al. (2001);Hybrid;1;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.61;8;deck panel;in situ;0;1;0;1;0;0;7.5;0.75;0;0;0;0;23;23;23;0;0;5.903;0;39.5;39.5;1
+Lopez-Anido et al. (2001);Hybrid;1;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.61;8;deck panel;in situ;0;1;0;1;0;0;7.5;0.75;0;8760;365;2.563;23;23;23;0;397.1;5.903;0;39.5;39.5;1
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;VARTM;0;0;0;1;0.56;6.9;deck sandwich face;tap water;1;0;1;0;0;0;7.5;1;0;1000;0;0;23;23;23;0;0;5.903;0;23.6;23.6;1
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;VARTM;0;0;0;1;0.56;6.9;deck sandwich face;tap water;1;0;1;0;0;0;7.5;1;0;1000;42;1.63;23;23;23;0;347.2;5.903;0;23.6;22.1;0.936
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;VARTM;0;0;0;1;0.56;6.9;deck sandwich face;tap water;1;0;1;0;0;0;7.5;1;0;3000;125;2.1;23;23;23;0;372.5;5.903;0;23.6;25.2;1.068
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;VARTM;0;0;0;1;0.56;6.9;deck sandwich face;tap water;1;0;1;0;0;0;7.5;1;0;10000;417;2.621;23;23;23;0;400.2;5.903;0;23.6;25.3;1.072
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;VARTM;0;0;0;1;0.56;6.9;deck sandwich face;salt water;1;0;1;0;0;0;7.5;1;0;1000;0;0;23;23;23;0;0;5.903;0;23.6;23.6;1
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;VARTM;0;0;0;1;0.56;6.9;deck sandwich face;salt water;1;0;1;0;0;0;7.5;1;0;1000;42;1.63;23;23;23;0;347.2;5.903;0;23.6;21.8;0.924
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;VARTM;0;0;0;1;0.56;6.9;deck sandwich face;salt water;1;0;1;0;0;0;7.5;1;0;3000;125;2.1;23;23;23;0;372.5;5.903;0;23.6;25.1;1.064
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;VARTM;0;0;0;1;0.56;6.9;deck sandwich face;salt water;1;0;1;0;0;0;7.5;1;0;10000;417;2.621;23;23;23;0;400.2;5.903;0;23.6;25.4;1.076
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;VARTM;0;0;0;1;0.56;6.9;deck sandwich face;in situ;0;1;0;1;0;0;7.5;0.75;0;0;0;0;23;23;23;0;0;5.903;0;23.6;23.6;1
+Lopez-Anido et al. (2001);Vinylester;0;0;1;0;0;Glass;1;0;0;VARTM;0;0;0;1;0.56;6.9;deck sandwich face;in situ;0;1;0;1;0;0;7.5;0.75;0;8760;365;2.563;23;23;23;0;397.1;5.903;0;23.6;24.1;1.021
+Lopez-Anido et al. (2001);Polyester;1;0;0;0;0;Glass;1;0;0;Hand lay-up;0;1;0;0;0.6;8.8;honeycomb sandwich face;tap water;1;0;1;0;0;0;7.5;1;0;3000;0;0;23;23;23;0;0;5.903;0;16.4;16.4;1
+Lopez-Anido et al. (2001);Polyester;1;0;0;0;0;Glass;1;0;0;Hand lay-up;0;1;0;0;0.6;8.8;honeycomb sandwich face;tap water;1;0;1;0;0;0;7.5;1;0;3000;125;2.1;23;23;23;0;372.5;5.903;0;16.4;17.5;1.067
+Lopez-Anido et al. (2001);Polyester;1;0;0;0;0;Glass;1;0;0;Hand lay-up;0;1;0;0;0.6;8.8;honeycomb sandwich face;tap water;1;0;1;0;0;0;7.5;1;0;10000;417;2.621;23;23;23;0;400.2;5.903;0;16.4;17.1;1.043
+Lopez-Anido et al. (2001);Polyester;1;0;0;0;0;Glass;1;0;0;Hand lay-up;0;1;0;0;0.6;8.8;honeycomb sandwich face;salt water;1;0;1;0;0;0;7.5;1;0;3000;0;0;23;23;23;0;0;5.903;0;16.4;16.4;1
+Lopez-Anido et al. (2001);Polyester;1;0;0;0;0;Glass;1;0;0;Hand lay-up;0;1;0;0;0.6;8.8;honeycomb sandwich face;salt water;1;0;1;0;0;0;7.5;1;0;3000;125;2.1;23;23;23;0;372.5;5.903;0;16.4;16.6;1.012
+Lopez-Anido et al. (2001);Polyester;1;0;0;0;0;Glass;1;0;0;Hand lay-up;0;1;0;0;0.6;8.8;honeycomb sandwich face;salt water;1;0;1;0;0;0;7.5;1;0;10000;417;2.621;23;23;23;0;400.2;5.903;0;16.4;17.1;1.043
+Lopez-Anido et al. (2001);Polyester;1;0;0;0;0;Glass;1;0;0;Hand lay-up;0;1;0;0;0.6;8.8;honeycomb sandwich face;in situ;0;1;0;1;0;0;7.5;0.75;0;0;0;0;23;23;23;0;0;5.903;0;16.4;16.4;1
+Lopez-Anido et al. (2001);Polyester;1;0;0;0;0;Glass;1;0;0;Hand lay-up;0;1;0;0;0.6;8.8;honeycomb sandwich face;in situ;0;1;0;1;0;0;7.5;0.75;0;8760;365;2.563;23;23;23;0;397.1;5.903;0;16.4;18;1.098
+Bazli et al. (2020);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;1000;0;0;50;60;55;10;0;115.115;0;37.1;37.1;1
+Bazli et al. (2020);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;1000;42;1.63;50;60;55;10;830.3;115.115;0;37.1;40;1.078
+Bazli et al. (2020);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;1500;63;1.803;50;60;55;10;852.6;115.115;0;37.1;36;0.97
+Bazli et al. (2020);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;2000;83;1.926;50;60;55;10;868.4;115.115;0;37.1;35;0.943
+Bazli et al. (2020);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;2;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;3000;125;2.1;50;60;55;10;890.7;115.115;0;37.1;32;0.863
+Bazli et al. (2020);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;5;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;1000;0;0;50;60;55;10;0;115.115;0;45;45;1
+Bazli et al. (2020);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;5;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;1000;42;1.63;50;60;55;10;830.3;115.115;0;45;48;1.067
+Bazli et al. (2020);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;5;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;1500;63;1.803;50;60;55;10;852.6;115.115;0;45;51;1.133
+Bazli et al. (2020);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;5;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;2000;83;1.926;50;60;55;10;868.4;115.115;0;45;41;0.911
+Bazli et al. (2020);Vinylester;0;0;1;0;0;Glass;1;0;0;Pultrusion;1;0;0;0;0.6;5;dogbone;UV-vapor cycles;0;1;0;1;0;0;7.5;1;0;3000;125;2.1;50;60;55;10;890.7;115.115;0;45;40;0.889
+Liao et al. (1999);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.34;6.4;plate;control;-;-;-;-;-;0;7.5;1;-;0;0;0;-;-;25;-;0;7.242;3.354;18.6;18.6;1
+Liao et al. (1999);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.34;6.4;plate;deionized water;-;-;-;-;-;0;6;1;-;9120;380;2.581;-;-;25;-;432.7;7.242;3.354;18.6;14.4;0.77
+McBagonluri et al. (2000);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.29;3.2;plate;control;-;-;-;-;-;0;7.5;1;-;0;0;0;-;-;23;-;0;5.903;3.377;15.5;15.5;1
+McBagonluri et al. (2000);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.29;3.2;plate;fresh water;-;-;-;-;-;0;7.5;1;-;672;28;1.462;-;-;45;-;661.5;48.515;3.143;15.5;13.3;0.86
+McBagonluri et al. (2000);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.29;3.2;plate;saltwater;-;-;-;-;-;35;7.5;1;-;672;28;1.462;-;-;65;-;955.4;259.535;2.957;15.5;13.9;0.89
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;control;-;-;-;-;-;0;7.5;1;-;0;0;0;-;-;23;-;0;5.903;3.377;154.7;154.7;1
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;distilled water 0% strain;-;-;-;-;-;0;6;1;-;336;14;1.176;-;-;23;-;322.1;5.903;3.377;154.7;167.4;1.08
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;distilled water 0% strain;-;-;-;-;-;0;6;1;-;672;28;1.462;-;-;23;-;338.1;5.903;3.377;154.7;168.9;1.09
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;distilled water 0% strain;-;-;-;-;-;0;6;1;-;2016;84;1.929;-;-;23;-;363.3;5.903;3.377;154.7;160.8;1.04
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;distilled water 0% strain;-;-;-;-;-;0;6;1;-;3360;140;2.149;-;-;23;-;375.1;5.903;3.377;154.7;161.3;1.04
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;distilled water 30% strain;-;-;-;-;-;0;6;1;-;336;14;1.176;-;-;23;-;322.1;5.903;3.377;154.7;166.5;1.08
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;distilled water 30% strain;-;-;-;-;-;0;6;1;-;672;28;1.462;-;-;23;-;338.1;5.903;3.377;154.7;170.6;1.1
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;distilled water 30% strain;-;-;-;-;-;0;6;1;-;2016;84;1.929;-;-;23;-;363.3;5.903;3.377;154.7;160.3;1.04
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;distilled water 30% strain;-;-;-;-;-;0;6;1;-;3360;140;2.149;-;-;23;-;375.1;5.903;3.377;154.7;162.1;1.05
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;distilled water 50% strain;-;-;-;-;-;0;6;1;-;336;14;1.176;-;-;23;-;322.1;5.903;3.377;154.7;160.3;1.04
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;distilled water 50% strain;-;-;-;-;-;0;6;1;-;672;28;1.462;-;-;23;-;338.1;5.903;3.377;154.7;172.4;1.11
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;distilled water 50% strain;-;-;-;-;-;0;6;1;-;2016;84;1.929;-;-;23;-;363.3;5.903;3.377;154.7;159.1;1.03
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;distilled water 50% strain;-;-;-;-;-;0;6;1;-;3360;140;2.149;-;-;23;-;375.1;5.903;3.377;154.7;160.4;1.04
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;seawater;-;-;-;-;-;35;8.5;1;-;336;14;1.176;-;-;23;-;322.1;5.903;3.377;154.7;162.3;1.05
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;seawater;-;-;-;-;-;35;8.5;1;-;672;28;1.462;-;-;23;-;338.1;5.903;3.377;154.7;170;1.1
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;seawater;-;-;-;-;-;35;8.5;1;-;2016;84;1.929;-;-;23;-;363.3;5.903;3.377;154.7;167.4;1.08
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;seawater;-;-;-;-;-;35;8.5;1;-;3360;140;2.149;-;-;23;-;375.1;5.903;3.377;154.7;174.5;1.13
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;seawater;-;-;-;-;-;35;8.5;1;-;336;14;1.176;-;-;23;-;322.1;5.903;3.377;154.7;157.5;1.02
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;seawater;-;-;-;-;-;35;8.5;1;-;672;28;1.462;-;-;23;-;338.1;5.903;3.377;154.7;165.1;1.07
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;seawater;-;-;-;-;-;35;8.5;1;-;2016;84;1.929;-;-;23;-;363.3;5.903;3.377;154.7;163.9;1.06
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;seawater;-;-;-;-;-;35;8.5;1;-;3360;140;2.149;-;-;23;-;375.1;5.903;3.377;154.7;173.5;1.12
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;seawater;-;-;-;-;-;35;8.5;1;-;336;14;1.176;-;-;23;-;322.1;5.903;3.377;154.7;167.4;1.08
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;seawater;-;-;-;-;-;35;8.5;1;-;672;28;1.462;-;-;23;-;338.1;5.903;3.377;154.7;165.7;1.07
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;seawater;-;-;-;-;-;35;8.5;1;-;2016;84;1.929;-;-;23;-;363.3;5.903;3.377;154.7;161.6;1.04
+Kafodya et al. (2015);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;;1.4;plate;seawater;-;-;-;-;-;35;8.5;1;-;3360;140;2.149;-;-;23;-;375.1;5.903;3.377;154.7;172.8;1.12
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;control;-;-;-;-;-;0;7.5;1;-;0;0;0;-;-;25;-;0;7.242;3.354;38.5;38.5;1
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;720;30;1.491;-;-;25;-;369.2;7.242;3.354;38.5;33.1;0.86
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;1440;60;1.785;-;-;25;-;386.5;7.242;3.354;38.5;28.8;0.75
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;2160;90;1.959;-;-;25;-;396.7;7.242;3.354;38.5;29.8;0.77
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;3168;132;2.124;-;-;25;-;406.2;7.242;3.354;38.5;28.3;0.73
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;720;30;1.491;-;-;40;-;590.7;30.85;3.193;38.5;31.2;0.81
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;1440;60;1.785;-;-;40;-;618.4;30.85;3.193;38.5;36.4;0.95
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;2160;90;1.959;-;-;40;-;634.7;30.85;3.193;38.5;35;0.91
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;3168;132;2.124;-;-;40;-;650;30.85;3.193;38.5;28.7;0.75
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;720;30;1.491;-;-;80;-;1181.4;805.938;2.832;38.5;28.9;0.75
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;1440;60;1.785;-;-;80;-;1236.9;805.938;2.832;38.5;26.6;0.69
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;2160;90;1.959;-;-;80;-;1269.3;805.938;2.832;38.5;36.9;0.96
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;3168;132;2.124;-;-;80;-;1300;805.938;2.832;38.5;29.4;0.76
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;control;-;-;-;-;-;0;7.5;1;-;0;0;0;-;-;25;-;0;7.242;3.354;42.7;42.7;1
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;720;30;1.491;-;-;25;-;369.2;7.242;3.354;42.7;42;0.98
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;1440;60;1.785;-;-;25;-;386.5;7.242;3.354;42.7;45.2;1.06
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;2160;90;1.959;-;-;25;-;396.7;7.242;3.354;42.7;36.9;0.86
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;3168;132;2.124;-;-;25;-;406.2;7.242;3.354;42.7;32;0.75
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;720;30;1.491;-;-;40;-;590.7;30.85;3.193;42.7;40.4;0.95
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;1440;60;1.785;-;-;40;-;618.4;30.85;3.193;42.7;39.1;0.92
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;2160;90;1.959;-;-;40;-;634.7;30.85;3.193;42.7;36.3;0.85
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;3168;132;2.124;-;-;40;-;650;30.85;3.193;42.7;32.4;0.76
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;720;30;1.491;-;-;80;-;1181.4;805.938;2.832;42.7;41.4;0.97
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;1440;60;1.785;-;-;80;-;1236.9;805.938;2.832;42.7;38.8;0.91
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;2160;90;1.959;-;-;80;-;1269.3;805.938;2.832;42.7;40;0.94
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;tap water;-;-;-;-;-;0;7.5;1;-;3168;132;2.124;-;-;80;-;1300;805.938;2.832;42.7;35.1;0.82
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;seawater (3% NaCl);-;-;-;-;-;35;8.5;1;-;720;30;1.491;-;-;25;-;369.2;7.242;3.354;38.5;35.1;0.91
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;seawater (3% NaCl);-;-;-;-;-;35;8.5;1;-;1440;60;1.785;-;-;25;-;386.5;7.242;3.354;38.5;28.4;0.74
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;seawater (3% NaCl);-;-;-;-;-;35;8.5;1;-;2160;90;1.959;-;-;25;-;396.7;7.242;3.354;38.5;31.1;0.81
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;seawater (3% NaCl);-;-;-;-;-;35;8.5;1;-;3168;132;2.124;-;-;25;-;406.2;7.242;3.354;38.5;28.5;0.74
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;seawater (3% NaCl);-;-;-;-;-;35;8.5;1;-;720;30;1.491;-;-;40;-;590.7;30.85;3.193;38.5;34.1;0.89
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;seawater (3% NaCl);-;-;-;-;-;35;8.5;1;-;1440;60;1.785;-;-;40;-;618.4;30.85;3.193;38.5;28.8;0.75
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;seawater (3% NaCl);-;-;-;-;-;35;8.5;1;-;2160;90;1.959;-;-;40;-;634.7;30.85;3.193;38.5;31.2;0.81
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;seawater (3% NaCl);-;-;-;-;-;35;8.5;1;-;3168;132;2.124;-;-;40;-;650;30.85;3.193;38.5;28.6;0.74
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;seawater (3% NaCl);-;-;-;-;-;35;8.5;1;-;720;30;1.491;-;-;80;-;1181.4;805.938;2.832;38.5;31.2;0.81
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;seawater (3% NaCl);-;-;-;-;-;35;8.5;1;-;1440;60;1.785;-;-;80;-;1236.9;805.938;2.832;38.5;30.4;0.79
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;seawater (3% NaCl);-;-;-;-;-;35;8.5;1;-;2160;90;1.959;-;-;80;-;1269.3;805.938;2.832;38.5;30;0.78
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;seawater (3% NaCl);-;-;-;-;-;35;8.5;1;-;3168;132;2.124;-;-;80;-;1300;805.938;2.832;38.5;28.9;0.75
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;720;30;1.491;-;-;25;-;369.2;7.242;3.354;38.5;35.9;0.93
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;1440;60;1.785;-;-;25;-;386.5;7.242;3.354;38.5;34.2;0.89
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;1800;75;1.881;-;-;25;-;392.1;7.242;3.354;38.5;26.8;0.7
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;720;30;1.491;-;-;40;-;590.7;30.85;3.193;38.5;39.8;1.03
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;1440;60;1.785;-;-;40;-;618.4;30.85;3.193;38.5;28.6;0.74
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;1800;75;1.881;-;-;40;-;627.4;30.85;3.193;38.5;29.3;0.76
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;720;30;1.491;-;-;80;-;1181.4;805.938;2.832;38.5;36;0.93
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.55;12.7;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;1440;60;1.785;-;-;80;-;1236.9;805.938;2.832;38.5;42.8;1.11
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;seawater (3% NaCl);-;-;-;-;-;30;8.5;1;-;720;30;1.491;-;-;25;-;369.2;7.242;3.354;42.7;40.1;0.94
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;seawater (3% NaCl);-;-;-;-;-;30;8.5;1;-;1440;60;1.785;-;-;25;-;386.5;7.242;3.354;42.7;36.6;0.86
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;seawater (3% NaCl);-;-;-;-;-;30;8.5;1;-;2160;90;1.959;-;-;25;-;396.7;7.242;3.354;42.7;36.7;0.86
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;seawater (3% NaCl);-;-;-;-;-;30;8.5;1;-;3168;132;2.124;-;-;25;-;406.2;7.242;3.354;42.7;32.3;0.76
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;seawater (3% NaCl);-;-;-;-;-;30;8.5;1;-;720;30;1.491;-;-;40;-;590.7;30.85;3.193;42.7;39.5;0.93
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;seawater (3% NaCl);-;-;-;-;-;30;8.5;1;-;1440;60;1.785;-;-;40;-;618.4;30.85;3.193;42.7;38.7;0.91
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;seawater (3% NaCl);-;-;-;-;-;30;8.5;1;-;2160;90;1.959;-;-;40;-;634.7;30.85;3.193;42.7;36.6;0.86
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;seawater (3% NaCl);-;-;-;-;-;30;8.5;1;-;3168;132;2.124;-;-;40;-;650;30.85;3.193;42.7;33.3;0.78
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;seawater (3% NaCl);-;-;-;-;-;30;8.5;1;-;720;30;1.491;-;-;80;-;1181.4;805.938;2.832;42.7;41.1;0.96
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;seawater (3% NaCl);-;-;-;-;-;30;8.5;1;-;1440;60;1.785;-;-;80;-;1236.9;805.938;2.832;42.7;38.6;0.91
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;seawater (3% NaCl);-;-;-;-;-;30;8.5;1;-;2160;90;1.959;-;-;80;-;1269.3;805.938;2.832;42.7;38;0.89
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;seawater (3% NaCl);-;-;-;-;-;30;8.5;1;-;3168;132;2.124;-;-;80;-;1300;805.938;2.832;42.7;34.2;0.8
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;720;30;1.491;-;-;25;-;369.2;7.242;3.354;42.7;41;0.96
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;1440;60;1.785;-;-;25;-;386.5;7.242;3.354;42.7;36.1;0.85
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;720;30;1.491;-;-;40;-;590.7;30.85;3.193;42.7;39.7;0.93
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;1440;60;1.785;-;-;40;-;618.4;30.85;3.193;42.7;38.3;0.9
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;1800;75;1.881;-;-;40;-;627.4;30.85;3.193;42.7;39;0.91
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;720;30;1.491;-;-;80;-;1181.4;805.938;2.832;42.7;39.9;0.93
+Kim et al. (2008);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.5;12.7;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;1440;60;1.785;-;-;80;-;1236.9;805.938;2.832;42.7;39.4;0.92
+Lu et al. (2015);Epoxy;0;0;0;0;1;Basalt;0;0;1;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;13;1;-;2160;0;0;-;-;23;-;0;5.9;3.377;59.4;59.4;1
+Lu et al. (2015);Epoxy;0;0;0;0;1;Basalt;0;0;1;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;13;1;-;2160;90;1.959;-;-;20;-;317.3;4.32;3.411;59.4;51.97;0.875
+Lu et al. (2015);Epoxy;0;0;0;0;1;Basalt;0;0;1;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;7.5;1;-;2160;90;1.959;-;-;20;-;317.3;4.32;3.411;59.4;53.14;0.895
+Lu et al. (2015);Epoxy;0;0;0;0;1;Basalt;0;0;1;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;13;1;-;2160;90;1.959;-;-;40;-;634.7;30.85;3.193;59.4;51.16;0.861
+Lu et al. (2015);Epoxy;0;0;0;0;1;Basalt;0;0;1;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;7.5;1;-;2160;90;1.959;-;-;40;-;634.7;30.85;3.193;59.4;52.48;0.884
+Lu et al. (2015);Epoxy;0;0;0;0;1;Basalt;0;0;1;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;13;1;-;2160;90;1.959;-;-;60;-;952;173.91;3.002;59.4;52.18;0.878
+Lu et al. (2015);Epoxy;0;0;0;0;1;Basalt;0;0;1;-;-;-;-;-;0.71;1.4;-;-;-;-;-;-;-;0;7.5;1;-;2160;90;1.959;-;-;60;-;952;173.91;3.002;59.4;54.95;0.925
+Zhang (2018);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.7;3;plate;control;-;-;-;-;-;0;7.5;1;-;0;0;0;-;-;23;-;0;5.903;3.377;5;5;1
+Zhang (2018);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.7;3;plate;deionized water;-;-;-;-;-;0;6;1;-;336;14;1.176;-;-;80;-;1120.5;805.938;2.832;5;3.8;0.76
+Zhang (2018);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.7;3;plate;deionized water;-;-;-;-;-;0;6;1;-;672;28;1.462;-;-;80;-;1175.9;805.938;2.832;5;4.4;0.89
+Zhang (2018);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.7;3;plate;deionized water;-;-;-;-;-;0;6;1;-;1008;42;1.633;-;-;80;-;1208.4;805.938;2.832;5;4.8;0.96
+Zhang (2018);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.7;3;plate;control;-;-;-;-;-;0;7.5;1;-;0;0;0;-;-;23;-;0;5.903;3.377;23;23;1
+Zhang (2018);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.7;3;plate;deionized water;-;-;-;-;-;0;6;1;-;168;7;0.903;-;-;80;-;1065;805.938;2.832;23;23.6;1.03
+Zhang (2018);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.7;3;plate;deionized water;-;-;-;-;-;0;6;1;-;336;14;1.176;-;-;80;-;1120.5;805.938;2.832;23;24.8;1.08
+Zhang (2018);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.7;3;plate;deionized water;-;-;-;-;-;0;6;1;-;672;28;1.462;-;-;80;-;1175.9;805.938;2.832;23;24.7;1.07
+Zhang (2018);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.7;3;plate;deionized water;-;-;-;-;-;0;6;1;-;1008;42;1.633;-;-;80;-;1208.4;805.938;2.832;23;24.3;1.06
+Micelli and Nanni (2004);Vinylester;0;0;1;0;1;Carbon;0;1;0;-;-;-;-;-;0.62;8.3;rod;control;-;-;-;-;-;0;6;1;-;0;0;0;-;-;23;-;0;5.903;3.377;128.8;128.8;1
+Micelli and Nanni (2004);Vinylester;0;0;1;0;1;Carbon;0;1;0;-;-;-;-;-;0.62;8.3;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;504;21;1.342;-;-;60;-;864.7;173.906;3.002;128.8;126.1;0.98
+Micelli and Nanni (2004);Vinylester;0;0;1;0;1;Carbon;0;1;0;-;-;-;-;-;0.62;8.3;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;1008;42;1.633;-;-;60;-;906.3;173.906;3.002;128.8;127.3;0.99
+Micelli and Nanni (2004);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;0.62;7.9;rod;control;-;-;-;-;-;0;7.5;1;-;0;0;0;-;-;23;-;0;5.903;3.377;108.2;108.2;1
+Micelli and Nanni (2004);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;0.62;7.9;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;504;21;1.342;-;-;60;-;864.7;173.906;3.002;108.2;112.2;1.04
+Micelli and Nanni (2004);Epoxy;0;0;0;0;1;Carbon;0;1;0;-;-;-;-;-;0.62;7.9;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;1008;42;1.633;-;-;60;-;906.3;173.906;3.002;108.2;116.3;1.07
+Micelli and Nanni (2004);Polyester;1;0;0;0;0;Glass;1;0;0;-;-;-;-;-;0.62;6.4;rod;control;-;-;-;-;-;0;7.5;1;-;0;0;0;-;-;23;-;0;5.903;3.377;30;30;1
+Micelli and Nanni (2004);Polyester;1;0;0;0;0;Glass;1;0;0;-;-;-;-;-;0.62;6.4;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;504;21;1.342;-;-;60;-;864.7;173.906;3.002;30;31.2;1.04
+Micelli and Nanni (2004);Polyester;1;0;0;0;0;Glass;1;0;0;-;-;-;-;-;0.62;6.4;rod;alkaline solution (pH = 13);-;-;-;-;-;0;13;1;-;1008;42;1.633;-;-;60;-;906.3;173.906;3.002;30;30.4;1.02
+Al-Salloum et al. (2013);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.83;12;rebar;control;-;-;-;-;-;0;7.5;1;-;0;0;0;-;-;23;-;0;5.903;3.377;60.4;60.4;1
+Al-Salloum et al. (2013);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.83;12;rebar;tap water;-;-;-;-;-;0;7.5;1;-;4320;180;2.258;-;-;23;-;380.9;5.903;3.377;60.4;58.9;0.98
+Al-Salloum et al. (2013);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.83;12;rebar;tap water;-;-;-;-;-;0;7.5;1;-;4320;180;2.258;-;-;50;-;828;75.233;3.095;60.4;57.9;0.96
+Al-Salloum et al. (2013);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.83;12;rebar;tap water;-;-;-;-;-;0;7.5;1;-;8640;360;2.558;-;-;23;-;396.8;5.903;3.377;60.4;59.6;0.99
+Al-Salloum et al. (2013);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.83;12;rebar;tap water;-;-;-;-;-;0;7.5;1;-;8640;360;2.558;-;-;50;-;862.6;75.233;3.095;60.4;60.2;1
+Al-Salloum et al. (2013);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.83;12;rebar;tap water;-;-;-;-;-;0;7.5;1;-;12960;540;2.733;-;-;23;-;406.1;5.903;3.377;60.4;58;0.96
+Al-Salloum et al. (2013);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.83;12;rebar;tap water;-;-;-;-;-;0;7.5;1;-;12960;540;2.733;-;-;50;-;882.9;75.233;3.095;60.4;58.6;0.97
+Al-Salloum et al. (2013);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.83;12;rebar;seawater;-;-;-;-;-;35;8.5;1;-;4320;180;2.258;-;-;23;-;380.9;5.903;3.377;60.4;60.9;1.01
+Al-Salloum et al. (2013);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.83;12;rebar;seawater;-;-;-;-;-;35;8.5;1;-;4320;180;2.258;-;-;50;-;828;75.233;3.095;60.4;58.6;0.97
+Al-Salloum et al. (2013);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.83;12;rebar;seawater;-;-;-;-;-;35;8.5;1;-;8640;360;2.558;-;-;23;-;396.8;5.903;3.377;60.4;57.6;0.95
+Al-Salloum et al. (2013);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.83;12;rebar;seawater;-;-;-;-;-;35;8.5;1;-;8640;360;2.558;-;-;50;-;862.6;75.233;3.095;60.4;58.5;0.97
+Al-Salloum et al. (2013);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.83;12;rebar;seawater;-;-;-;-;-;35;8.5;1;-;12960;540;2.733;-;-;23;-;406.1;5.903;3.377;60.4;58.7;0.97
+Al-Salloum et al. (2013);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.83;12;rebar;seawater;-;-;-;-;-;35;8.5;1;-;12960;540;2.733;-;-;50;-;882.9;75.233;3.095;60.4;58.6;0.97
+Al-Salloum et al. (2013);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.83;12;rebar;alkaline solution (pH = 12.8);-;-;-;-;-;0;12.8;1;-;4320;180;2.258;-;-;50;-;828;75.233;3.095;60.4;58.2;0.96
+Al-Salloum et al. (2013);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.83;12;rebar;alkaline solution (pH = 12.8);-;-;-;-;-;0;12.8;1;-;8640;360;2.558;-;-;50;-;862.6;75.233;3.095;60.4;58.7;0.97
+Al-Salloum et al. (2013);Vinylester;0;0;1;0;0;Glass;1;0;0;-;-;-;-;-;0.83;12;rebar;alkaline solution (pH = 12.8);-;-;-;-;-;0;12.8;1;-;12960;540;2.733;-;-;50;-;882.9;75.233;3.095;60.4;59.6;0.99
+Sawpan et al. (2014);Epoxy;0;0;0;0;1;Glass;1;0;0;-;-;-;-;-;;14;rebar;control;-;-;-;-;-;0;7.5;1;-;0;0;0;-;-;23;-;0;5.903;3.377;55;55;1
+Sawpan et al. (2014);Epoxy;0;0;0;0;1;Glass;1;0;0;-;-;-;-;-;;14;rebar;concrete pore solution;-;-;-;-;-;0;13;1;-;720;30;1.491;-;-;60;-;886.1;173.906;3.002;55;56.5;1.03
+Sawpan et al. (2014);Epoxy;0;0;0;0;1;Glass;1;0;0;-;-;-;-;-;;14;rebar;concrete pore solution;-;-;-;-;-;0;13;1;-;1440;60;1.785;-;-;60;-;927.7;173.906;3.002;55;54.8;1
+Sawpan et al. (2014);Epoxy;0;0;0;0;1;Glass;1;0;0;-;-;-;-;-;;14;rebar;concrete pore solution;-;-;-;-;-;0;13;1;-;2160;90;1.959;-;-;60;-;952;173.906;3.002;55;53.4;0.97
+Sawpan et al. (2014);Epoxy;0;0;0;0;1;Glass;1;0;0;-;-;-;-;-;;14;rebar;concrete pore solution;-;-;-;-;-;0;13;1;-;2880;120;2.083;-;-;60;-;969.3;173.906;3.002;55;54.4;0.99
+Sawpan et al. (2014);Epoxy;0;0;0;0;1;Glass;1;0;0;-;-;-;-;-;;14;rebar;concrete pore solution;-;-;-;-;-;0;13;1;-;4320;180;2.258;-;-;60;-;993.6;173.906;3.002;55;54.1;0.98
+Sawpan et al. (2014);Epoxy;0;0;0;0;1;Glass;1;0;0;-;-;-;-;-;;14;rebar;concrete pore solution;-;-;-;-;-;0;13;1;-;10080;420;2.624;-;-;60;-;1044.4;173.906;3.002;55;54.7;0.99
+Sawpan et al. (2014);Epoxy;0;0;0;0;1;Glass;1;0;0;-;-;-;-;-;;14;rebar;concrete pore solution;-;-;-;-;-;0;13;1;-;17280;720;2.858;-;-;60;-;1076.8;173.906;3.002;55;57.2;1.04
